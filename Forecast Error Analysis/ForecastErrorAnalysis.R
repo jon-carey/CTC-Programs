@@ -35,8 +35,8 @@ StartYear = 1999
 
 
 # Set infile and outfile paths
-Infile <- "C:\\data\\GitHub\\CTC Programs\\Forecast Error Analysis\\Input Files\\"
-Outfile <- "C:\\data\\GitHub\\CTC Programs\\Forecast Error Analysis\\Output Files\\"
+Infile <- "C:\\data\\GitHub\\CTC-Programs\\Forecast Error Analysis\\Input Files\\"
+Outfile <- "C:\\data\\GitHub\\CTC-Programs\\Forecast Error Analysis\\Output Files\\"
 # Set path to file with list of file names for ChkCLB files to be used
 # It is important here that the file names are in order from earliest to most current
 filelist <- read.csv(paste(Infile, "ChkClbList.csv", sep = ""), header = FALSE)

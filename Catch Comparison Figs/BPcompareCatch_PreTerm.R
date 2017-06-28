@@ -13,7 +13,7 @@ library(gridExtra)
 library(scales)
 
 # Source dir
-Dir <- "C:\\data\\GitHub\\CTC Programs\\Catch Comparison Figs\\"
+Dir <- "C:\\data\\GitHub\\CTC-Programs\\Catch Comparison Figs\\"
 
 # Set the paths to the necessary input files and output path
 paths = list(paste(Dir,"Input Files\\FishLUT.csv",sep=""),
