@@ -1,0 +1,1829 @@
+"FisheryNum","FisheryName","FisheryGroup","Year","Observed_Catch","Model_LCatch","Model_TM"
+1,"Alaska Troll","Alaska Troll",1979,337672,224364.79,294999.86
+1,"Alaska Troll","Alaska Troll",1980,303643,263089.96,340530.95
+1,"Alaska Troll","Alaska Troll",1981,248782,234975.2,325981.34
+1,"Alaska Troll","Alaska Troll",1982,241938,227421.75,351344.56
+1,"Alaska Troll","Alaska Troll",1983,269821,291035.05,400466.91
+1,"Alaska Troll","Alaska Troll",1984,235622,200291.41,299201.25
+1,"Alaska Troll","Alaska Troll",1985,211933,186526.61,299756.28
+1,"Alaska Troll","Alaska Troll",1986,231649,203879.12,303998.79
+1,"Alaska Troll","Alaska Troll",1987,231051,203352.69,332713.87
+1,"Alaska Troll","Alaska Troll",1988,217088,191063.6,266552.59
+1,"Alaska Troll","Alaska Troll",1989,224182,197307.18,304778.75
+1,"Alaska Troll","Alaska Troll",1990,263528,231936.37,333610.83
+1,"Alaska Troll","Alaska Troll",1991,231803,204014.57,310888.44
+1,"Alaska Troll","Alaska Troll",1992,162617,143122.61,234100.08
+1,"Alaska Troll","Alaska Troll",1993,212350,186893.58,272257.7
+1,"Alaska Troll","Alaska Troll",1994,177146,155909.88,242074.01
+1,"Alaska Troll","Alaska Troll",1995,115072,101277.18,159328.15
+1,"Alaska Troll","Alaska Troll",1996,107581,94684.23,150668.57
+1,"Alaska Troll","Alaska Troll",1997,221944,195337.52,269396.88
+1,"Alaska Troll","Alaska Troll",1998,183489,161492.4,205392.39
+1,"Alaska Troll","Alaska Troll",1999,132741,116828.15,171784.89
+1,"Alaska Troll","Alaska Troll",2000,133963,117903.6,167975.05
+1,"Alaska Troll","Alaska Troll",2001,128692,113264.5,166086.52
+1,"Alaska Troll","Alaska Troll",2002,298132,262392.11,355481.69
+1,"Alaska Troll","Alaska Troll",2003,307380,270531.44,361027.53
+1,"Alaska Troll","Alaska Troll",2004,321876,283289.67,350726.89
+1,"Alaska Troll","Alaska Troll",2005,304891,268340.82,347641.94
+1,"Alaska Troll","Alaska Troll",2006,263980,232334.2,291338.1
+1,"Alaska Troll","Alaska Troll",2007,240472,211644.35,277351.78
+1,"Alaska Troll","Alaska Troll",2008,126397,111244.55,161460.31
+1,"Alaska Troll","Alaska Troll",2009,159166,140085.22,197596.73
+1,"Alaska Troll","Alaska Troll",2010,178023,156681.7,222970.24
+1,"Alaska Troll","Alaska Troll",2011,220371,193953.04,255168.9
+1,"Alaska Troll","Alaska Troll",2012,191519,168559.81,231652.15
+1,"Alaska Troll","Alaska Troll",2013,134600,118464.22,176744.62
+1,"Alaska Troll","Alaska Troll",2014,340007,299247.16,405075.21
+1,"Alaska Troll","Alaska Troll",2015,251088,220987.69,310341.38
+1,"Alaska Troll","Alaska Troll",2016,266008,234119.11,307189.77
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1979,100,1463.84,1529.42
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1980,100,963.5,1007.43
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1981,100,798.8,840.94
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1982,100,861.19,912.99
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1983,0,474.15,498.52
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1984,0,663.6,700.97
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1985,0,929.9,990.64
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1986,0,1175.55,1243.15
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1987,0,1142.61,1196.38
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1988,0,943.43,987.57
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1989,0,930.61,980.16
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1990,0,999.11,1042.08
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1991,0,948,994.46
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1992,0,999.37,1059.17
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1993,0,1261.9,1345.29
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1994,0,1735,1862.66
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1995,0,2028.2,2123.19
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1996,0,1643.18,1713.82
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1997,0,1180.99,1234.7
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1998,0,1006.19,1064.1
+2,"Alaska Terminal Troll","Alaska Terminal Troll",1999,0,1023.96,1085.77
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2000,0,958.63,1019.63
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2001,0,749.26,789.37
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2002,0,633.02,661.1
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2003,0,716.34,746.75
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2004,0,689.2,718.31
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2005,2812,439.79,459.77
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2006,1261,297.93,309.54
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2007,1422,291.4,304.62
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2008,796,397.48,418.87
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2009,23,665.34,702.26
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2010,379,780.61,814.58
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2011,196,590.04,611.65
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2012,325,445.34,464.6
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2013,239,453.01,474.86
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2014,736,533.33,558.75
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2015,216,657.56,681.67
+2,"Alaska Terminal Troll","Alaska Terminal Troll",2016,216,721.2,748.75
+3,"North B.C. Troll","North B.C. Troll",1979,147576,171064.38,228091.24
+3,"North B.C. Troll","North B.C. Troll",1980,157198,167720.72,220713.82
+3,"North B.C. Troll","North B.C. Troll",1981,153065,167777.11,229607
+3,"North B.C. Troll","North B.C. Troll",1982,173472,229592.62,314510.48
+3,"North B.C. Troll","North B.C. Troll",1983,162837,232546.06,277253.53
+3,"North B.C. Troll","North B.C. Troll",1984,185134,228389.58,284489.2
+3,"North B.C. Troll","North B.C. Troll",1985,165845,202731.65,249015.33
+3,"North B.C. Troll","North B.C. Troll",1986,175715,214796.94,266765.04
+3,"North B.C. Troll","North B.C. Troll",1987,177457,216926.37,298484.8
+3,"North B.C. Troll","North B.C. Troll",1988,152369,186258.33,255304.75
+3,"North B.C. Troll","North B.C. Troll",1989,207679,253870.23,333741.68
+3,"North B.C. Troll","North B.C. Troll",1990,154109,188385.43,263003.99
+3,"North B.C. Troll","North B.C. Troll",1991,194018,237170.8,322319.41
+3,"North B.C. Troll","North B.C. Troll",1992,142340,173998.8,246440.99
+3,"North B.C. Troll","North B.C. Troll",1993,161686,197647.63,261467.43
+3,"North B.C. Troll","North B.C. Troll",1994,164581,201186.59,258281.98
+3,"North B.C. Troll","North B.C. Troll",1995,56857,69502.91,114505.41
+3,"North B.C. Troll","North B.C. Troll",1996,8,0,0
+3,"North B.C. Troll","North B.C. Troll",1997,83261,101779.6,127347.26
+3,"North B.C. Troll","North B.C. Troll",1998,109072,133331.41,163765.17
+3,"North B.C. Troll","North B.C. Troll",1999,54097,66129.09,83073.58
+3,"North B.C. Troll","North B.C. Troll",2000,9948,12160.59,15679.38
+3,"North B.C. Troll","North B.C. Troll",2001,12934,15810.74,20783.42
+3,"North B.C. Troll","North B.C. Troll",2002,102731,125580.04,161439.13
+3,"North B.C. Troll","North B.C. Troll",2003,140497,171745.8,221010.48
+3,"North B.C. Troll","North B.C. Troll",2004,167508,204764.53,250770.87
+3,"North B.C. Troll","North B.C. Troll",2005,174806,213685.73,268717.45
+3,"North B.C. Troll","North B.C. Troll",2006,151485,185177.77,221429.09
+3,"North B.C. Troll","North B.C. Troll",2007,83235,101747.8,126467.88
+3,"North B.C. Troll","North B.C. Troll",2008,52147,63745.31,81975.5
+3,"North B.C. Troll","North B.C. Troll",2009,75470,92255.75,118870
+3,"North B.C. Troll","North B.C. Troll",2010,90213,110277.88,143671.48
+3,"North B.C. Troll","North B.C. Troll",2011,74660,91265.62,121470.73
+3,"North B.C. Troll","North B.C. Troll",2012,80257,98107.47,129069.21
+3,"North B.C. Troll","North B.C. Troll",2013,69264,84669.47,117226.36
+3,"North B.C. Troll","North B.C. Troll",2014,172001,210256.83,270902.99
+3,"North B.C. Troll","North B.C. Troll",2015,106703,130435.52,173732.43
+3,"North B.C. Troll","North B.C. Troll",2016,147381,180160.99,226975.17
+4,"Central B.C. Troll","Central B.C. Troll",1979,109261,150750.97,199279.89
+4,"Central B.C. Troll","Central B.C. Troll",1980,98059,122229.74,160595.99
+4,"Central B.C. Troll","Central B.C. Troll",1981,78659,141483.6,193730.53
+4,"Central B.C. Troll","Central B.C. Troll",1982,75767,316105,426587.74
+4,"Central B.C. Troll","Central B.C. Troll",1983,105166,167888.86,199599.83
+4,"Central B.C. Troll","Central B.C. Troll",1984,83862,72143.73,89865.03
+4,"Central B.C. Troll","Central B.C. Troll",1985,28814,50777.45,62311.34
+4,"Central B.C. Troll","Central B.C. Troll",1986,52559,92622.11,115288.91
+4,"Central B.C. Troll","Central B.C. Troll",1987,64015,112810.49,154042.75
+4,"Central B.C. Troll","Central B.C. Troll",1988,31103,54811.32,73533.69
+4,"Central B.C. Troll","Central B.C. Troll",1989,19092,33644.94,44140.81
+4,"Central B.C. Troll","Central B.C. Troll",1990,27313,48132.36,65765.47
+4,"Central B.C. Troll","Central B.C. Troll",1991,27853,49083.96,66578.16
+4,"Central B.C. Troll","Central B.C. Troll",1992,42311,74562.59,100875.28
+4,"Central B.C. Troll","Central B.C. Troll",1993,24780,43668.56,59803.25
+4,"Central B.C. Troll","Central B.C. Troll",1994,20155,35518.14,44798.16
+4,"Central B.C. Troll","Central B.C. Troll",1995,4681,8249.13,13672.01
+4,"Central B.C. Troll","Central B.C. Troll",1996,0,0,0
+4,"Central B.C. Troll","Central B.C. Troll",1997,10520,18538.9,23205.68
+4,"Central B.C. Troll","Central B.C. Troll",1998,4317,7607.61,16485.44
+4,"Central B.C. Troll","Central B.C. Troll",1999,2346,4134.17,5159.2
+4,"Central B.C. Troll","Central B.C. Troll",2000,85,149.76,1982.95
+4,"Central B.C. Troll","Central B.C. Troll",2001,453,798.32,2378.91
+4,"Central B.C. Troll","Central B.C. Troll",2002,611,1076.73,1535.98
+4,"Central B.C. Troll","Central B.C. Troll",2003,719,1267.01,2254.62
+4,"Central B.C. Troll","Central B.C. Troll",2004,316,556.88,1742.15
+4,"Central B.C. Troll","Central B.C. Troll",2005,24,42.32,1259.81
+4,"Central B.C. Troll","Central B.C. Troll",2006,0,0,0
+4,"Central B.C. Troll","Central B.C. Troll",2007,0,0,0
+4,"Central B.C. Troll","Central B.C. Troll",2008,9,15.81,264.31
+4,"Central B.C. Troll","Central B.C. Troll",2009,0,0,0
+4,"Central B.C. Troll","Central B.C. Troll",2010,0,0,0
+4,"Central B.C. Troll","Central B.C. Troll",2011,0,0,0
+4,"Central B.C. Troll","Central B.C. Troll",2012,0,0,0
+4,"Central B.C. Troll","Central B.C. Troll",2013,0,0,0
+4,"Central B.C. Troll","Central B.C. Troll",2014,0,0,0
+4,"Central B.C. Troll","Central B.C. Troll",2015,0,0,0
+4,"Central B.C. Troll","Central B.C. Troll",2016,0,0,0
+4,"Central B.C. Troll","Central B.C. Troll",2017,0,0,0
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1979,477222,664989.98,887200.2
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1980,486303,542040.59,720009.96
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1981,423266,562718.87,773736.26
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1982,538510,1100167.1,1491516.63
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1983,395636,871454.97,1040743.01
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1984,471294,849006.52,1058263.85
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1985,345937,568714.33,705738.86
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1986,350227,575766.87,717494.33
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1987,378931,622955.81,863019.31
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1988,408668,671842.87,936555.9
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1989,203751,334963,440184.96
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1990,297858,489673.24,637531.87
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1991,203035,333785.94,442147.18
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1992,340146,559193.99,732707.71
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1993,277033,455437.3,582341.04
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1994,150039,246661.43,313823.34
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1995,81454,133908.94,214402.04
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1996,4,0,0
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1997,52688,86618.12,118901.86
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1998,5140,8450.09,8938.15
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",1999,7434,12221.34,13549.3
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2000,64547,106114.12,121945.46
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2001,79668,130972.73,148479.72
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2002,126383,207771.38,246611.84
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2003,146736,241231.33,265135.84
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2004,171166,281393.87,307198.05
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2005,148798,244621.25,266368.92
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2006,108978,179157.92,195532.82
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2007,92921,152760.51,165218.88
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2008,94704,155691.7,167600.82
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2009,58191,95664.96,109169.2
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2010,84123,138296.72,151301.38
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2011,129023,212111.52,236138.1
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2012,60530,99510.24,113496.27
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2013,49526,81419.81,89744.62
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2014,129204,212409.04,244690.74
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2015,68522,112648.92,123852.52
+5,"West Coast Vancouver Island Troll","West Coast Vancouver Island Troll",2016,60831,100005.1,112938.61
+6,"North of Falcon Troll","North of Falcon Troll",1979,140844,224240.97,285473.21
+6,"North of Falcon Troll","North of Falcon Troll",1980,136391,176090.58,225160.84
+6,"North of Falcon Troll","North of Falcon Troll",1981,125161,183073.33,243804.8
+6,"North of Falcon Troll","North of Falcon Troll",1982,173744,283157.47,360955.81
+6,"North of Falcon Troll","North of Falcon Troll",1983,82075,124418.56,153467.25
+6,"North of Falcon Troll","North of Falcon Troll",1984,31125,37194.79,46567.59
+6,"North of Falcon Troll","North of Falcon Troll",1985,68088,101555.74,126645.47
+6,"North of Falcon Troll","North of Falcon Troll",1986,82000,122306,153028.08
+6,"North of Falcon Troll","North of Falcon Troll",1987,126000,187933.6,230625.65
+6,"North of Falcon Troll","North of Falcon Troll",1988,157000,234171.24,285568.59
+6,"North of Falcon Troll","North of Falcon Troll",1989,140600,209710.05,256443.25
+6,"North of Falcon Troll","North of Falcon Troll",1990,113628,169480.3,207231.78
+6,"North of Falcon Troll","North of Falcon Troll",1991,88862,132540.91,164033.94
+6,"North of Falcon Troll","North of Falcon Troll",1992,100624,150084.39,183748.32
+6,"North of Falcon Troll","North of Falcon Troll",1993,65937,98347.43,117178.39
+6,"North of Falcon Troll","North of Falcon Troll",1994,7919,11811.49,12605.4
+6,"North of Falcon Troll","North of Falcon Troll",1995,15906,23724.41,25358.73
+6,"North of Falcon Troll","North of Falcon Troll",1996,22210,33127.04,35565.31
+6,"North of Falcon Troll","North of Falcon Troll",1997,21358,31856.23,38658.65
+6,"North of Falcon Troll","North of Falcon Troll",1998,21329,31812.96,33807.25
+6,"North of Falcon Troll","North of Falcon Troll",1999,45581,67985.78,73484.97
+6,"North of Falcon Troll","North of Falcon Troll",2000,20506,30585.5,32924.06
+6,"North of Falcon Troll","North of Falcon Troll",2001,56137,83730.39,90380.72
+6,"North of Falcon Troll","North of Falcon Troll",2002,108245,161451.37,177126.68
+6,"North of Falcon Troll","North of Falcon Troll",2003,102194,152426.1,161404.93
+6,"North of Falcon Troll","North of Falcon Troll",2004,108975,162540.18,172223.34
+6,"North of Falcon Troll","North of Falcon Troll",2005,92470,137922.41,146436.12
+6,"North of Falcon Troll","North of Falcon Troll",2006,58428,87147.5,92177.17
+6,"North of Falcon Troll","North of Falcon Troll",2007,43071,64241.92,67894.47
+6,"North of Falcon Troll","North of Falcon Troll",2008,36916,55061.57,57996.32
+6,"North of Falcon Troll","North of Falcon Troll",2009,28690,42792.23,46240.78
+6,"North of Falcon Troll","North of Falcon Troll",2010,90576,135097.41,143796.67
+6,"North of Falcon Troll","North of Falcon Troll",2011,65523,97729.92,104568.7
+6,"North of Falcon Troll","North of Falcon Troll",2012,100818,150373.68,162582.46
+6,"North of Falcon Troll","North of Falcon Troll",2013,95210,142009.21,151533.03
+6,"North of Falcon Troll","North of Falcon Troll",2014,121490,181206.8,196588.88
+6,"North of Falcon Troll","North of Falcon Troll",2015,130148,194120.45,207201.4
+6,"North of Falcon Troll","North of Falcon Troll",2016,42234,62993.55,67782.96
+7,"South of Falcon Troll","South of Falcon Troll",1979,112280,35110.15,44636.36
+7,"South of Falcon Troll","South of Falcon Troll",1980,131294,29484.87,37776.78
+7,"South of Falcon Troll","South of Falcon Troll",1981,64102,29203.35,39087.76
+7,"South of Falcon Troll","South of Falcon Troll",1982,145148,37852.35,48438.04
+7,"South of Falcon Troll","South of Falcon Troll",1983,47519,12322.1,15155.83
+7,"South of Falcon Troll","South of Falcon Troll",1984,36084,6265.96,7885.31
+7,"South of Falcon Troll","South of Falcon Troll",1985,193770,54269.77,67961.39
+7,"South of Falcon Troll","South of Falcon Troll",1986,342092,95810.78,119992.38
+7,"South of Falcon Troll","South of Falcon Troll",1987,479427,134274.6,164214.8
+7,"South of Falcon Troll","South of Falcon Troll",1988,430383,120538.7,146335.57
+7,"South of Falcon Troll","South of Falcon Troll",1989,333585,93428.2,113594.17
+7,"South of Falcon Troll","South of Falcon Troll",1990,227637,63755.01,77985.2
+7,"South of Falcon Troll","South of Falcon Troll",1991,73323,20535.8,25661.52
+7,"South of Falcon Troll","South of Falcon Troll",1992,108247,30317.08,37211.82
+7,"South of Falcon Troll","South of Falcon Troll",1993,81112,22717.28,27151.85
+7,"South of Falcon Troll","South of Falcon Troll",1994,23729,6645.85,7122.67
+7,"South of Falcon Troll","South of Falcon Troll",1995,210464,58945.34,63049.8
+7,"South of Falcon Troll","South of Falcon Troll",1996,166645,46672.76,49996.65
+7,"South of Falcon Troll","South of Falcon Troll",1997,146158,40934.92,49887.22
+7,"South of Falcon Troll","South of Falcon Troll",1998,123468,34580.08,36890.94
+7,"South of Falcon Troll","South of Falcon Troll",1999,61156,17128.13,18358.64
+7,"South of Falcon Troll","South of Falcon Troll",2000,130192,36463.27,39491.02
+7,"South of Falcon Troll","South of Falcon Troll",2001,267273,74855.99,81074.46
+7,"South of Falcon Troll","South of Falcon Troll",2002,284589,79705.75,84701.48
+7,"South of Falcon Troll","South of Falcon Troll",2003,314222,88005.12,93602.94
+7,"South of Falcon Troll","South of Falcon Troll",2004,241107,67527.6,71446.35
+7,"South of Falcon Troll","South of Falcon Troll",2005,238944,66921.81,70925.3
+7,"South of Falcon Troll","South of Falcon Troll",2006,23738,6648.37,7038.91
+7,"South of Falcon Troll","South of Falcon Troll",2007,29947,8387.33,9045.18
+7,"South of Falcon Troll","South of Falcon Troll",2008,284,79.52,84.86
+7,"South of Falcon Troll","South of Falcon Troll",2009,437,122.41,132.68
+7,"South of Falcon Troll","South of Falcon Troll",2010,27444,7686.34,8174.95
+7,"South of Falcon Troll","South of Falcon Troll",2011,27919,7819.36,8397.33
+7,"South of Falcon Troll","South of Falcon Troll",2012,59213,16583.97,17964.47
+7,"South of Falcon Troll","South of Falcon Troll",2013,103996,29126.47,31082.38
+7,"South of Falcon Troll","South of Falcon Troll",2014,175768,49227.87,52349.99
+7,"South of Falcon Troll","South of Falcon Troll",2015,89154,24969.64,26343.31
+7,"South of Falcon Troll","South of Falcon Troll",2016,39820,11152.52,11908.41
+8,"Georgia Strait Troll","Georgia Strait Troll",1979,254997,736446.09,803845.91
+8,"Georgia Strait Troll","Georgia Strait Troll",1980,273169,566127.57,630903.76
+8,"Georgia Strait Troll","Georgia Strait Troll",1981,239662,705561.53,812861.13
+8,"Georgia Strait Troll","Georgia Strait Troll",1982,179046,1889621.33,2011506.07
+8,"Georgia Strait Troll","Georgia Strait Troll",1983,104978,667511.23,763805.92
+8,"Georgia Strait Troll","Georgia Strait Troll",1984,89992,149117.86,178824.21
+8,"Georgia Strait Troll","Georgia Strait Troll",1985,56009,231247.04,294729.96
+8,"Georgia Strait Troll","Georgia Strait Troll",1986,43925,181355.28,252016.51
+8,"Georgia Strait Troll","Georgia Strait Troll",1987,38064,157156.69,204906.74
+8,"Georgia Strait Troll","Georgia Strait Troll",1988,20244,83582.35,106177.63
+8,"Georgia Strait Troll","Georgia Strait Troll",1989,28443,117433.98,151812.07
+8,"Georgia Strait Troll","Georgia Strait Troll",1990,34301,141620.11,180495.57
+8,"Georgia Strait Troll","Georgia Strait Troll",1991,32404,133787.93,194176.08
+8,"Georgia Strait Troll","Georgia Strait Troll",1992,37250,153795.87,231277.86
+8,"Georgia Strait Troll","Georgia Strait Troll",1993,33292,137454.24,200853.23
+8,"Georgia Strait Troll","Georgia Strait Troll",1994,12917,53331.05,67784.35
+8,"Georgia Strait Troll","Georgia Strait Troll",1995,139,573.91,742.61
+8,"Georgia Strait Troll","Georgia Strait Troll",1996,14,57.8,75.18
+8,"Georgia Strait Troll","Georgia Strait Troll",1997,806,3327.76,4272.26
+8,"Georgia Strait Troll","Georgia Strait Troll",1998,303,1250.98,2651.49
+8,"Georgia Strait Troll","Georgia Strait Troll",1999,219,904.22,1137.42
+8,"Georgia Strait Troll","Georgia Strait Troll",2000,609,2514.4,3656.96
+8,"Georgia Strait Troll","Georgia Strait Troll",2001,311,1284.05,1622.04
+8,"Georgia Strait Troll","Georgia Strait Troll",2002,459,1895.15,2468.73
+8,"Georgia Strait Troll","Georgia Strait Troll",2003,279,1151.96,1480.47
+8,"Georgia Strait Troll","Georgia Strait Troll",2004,389,1606.06,1892.65
+8,"Georgia Strait Troll","Georgia Strait Troll",2005,11,45.39,193.16
+8,"Georgia Strait Troll","Georgia Strait Troll",2006,0,0,0
+8,"Georgia Strait Troll","Georgia Strait Troll",2007,0,0,0
+8,"Georgia Strait Troll","Georgia Strait Troll",2008,0,0,0
+8,"Georgia Strait Troll","Georgia Strait Troll",2009,0,0,0
+8,"Georgia Strait Troll","Georgia Strait Troll",2010,5,20.62,25.94
+8,"Georgia Strait Troll","Georgia Strait Troll",2011,0,0,0
+8,"Georgia Strait Troll","Georgia Strait Troll",2012,0,0,0
+8,"Georgia Strait Troll","Georgia Strait Troll",2013,0,0,0
+8,"Georgia Strait Troll","Georgia Strait Troll",2014,0,0,0
+8,"Georgia Strait Troll","Georgia Strait Troll",2015,0,0,0
+8,"Georgia Strait Troll","Georgia Strait Troll",2016,0,0,0
+8,"Georgia Strait Troll","Georgia Strait Troll",2017,0,0,0
+9,"Alaska Net","Alaska Net",1979,28388,17280.21,18696.65
+9,"Alaska Net","Alaska Net",1980,20114,21116.56,22344.1
+9,"Alaska Net","Alaska Net",1981,18952,20800.96,22764.53
+9,"Alaska Net","Alaska Net",1982,46992,26980.9,29008.98
+9,"Alaska Net","Alaska Net",1983,19516,22298.25,23830.86
+9,"Alaska Net","Alaska Net",1984,32405,13942.19,14681.6
+9,"Alaska Net","Alaska Net",1985,33329,24524.77,63825.68
+9,"Alaska Net","Alaska Net",1986,20564,15131.79,43452.96
+9,"Alaska Net","Alaska Net",1987,13979,10286.27,20972.43
+9,"Alaska Net","Alaska Net",1988,17448,12838.89,30510.66
+9,"Alaska Net","Alaska Net",1989,18549,13649.06,51072.18
+9,"Alaska Net","Alaska Net",1990,16108,11852.91,29590.68
+9,"Alaska Net","Alaska Net",1991,21039,15481.29,34345.41
+9,"Alaska Net","Alaska Net",1992,24017,17672.65,137238.51
+9,"Alaska Net","Alaska Net",1993,16166,11895.59,25143.34
+9,"Alaska Net","Alaska Net",1994,22552,16594.59,59060.93
+9,"Alaska Net","Alaska Net",1995,26371,19404.85,36647.6
+9,"Alaska Net","Alaska Net",1996,8441,6211.23,8214.39
+9,"Alaska Net","Alaska Net",1997,11447,8423.16,13049.46
+9,"Alaska Net","Alaska Net",1998,13360,9830.77,15890.8
+9,"Alaska Net","Alaska Net",1999,12943,9523.97,12393.48
+9,"Alaska Net","Alaska Net",2000,11091,8161.23,10133.27
+9,"Alaska Net","Alaska Net",2001,13502,9935.29,13528.69
+9,"Alaska Net","Alaska Net",2002,13497,9931.58,12838.77
+9,"Alaska Net","Alaska Net",2003,23534,17317.23,21094.45
+9,"Alaska Net","Alaska Net",2004,39730,29234.86,40178.74
+9,"Alaska Net","Alaska Net",2005,20415,15022.16,17584.54
+9,"Alaska Net","Alaska Net",2006,26710,19654.24,22631.57
+9,"Alaska Net","Alaska Net",2007,25428,18710.91,39211.84
+9,"Alaska Net","Alaska Net",2008,13839,10183.26,12350.68
+9,"Alaska Net","Alaska Net",2009,20744,15264.22,17983
+9,"Alaska Net","Alaska Net",2010,8411,6189.13,8166.2
+9,"Alaska Net","Alaska Net",2011,16338,12022.12,14359.07
+9,"Alaska Net","Alaska Net",2012,13311,9794.75,17458.28
+9,"Alaska Net","Alaska Net",2013,13522,9949.99,26322.63
+9,"Alaska Net","Alaska Net",2014,21208,15605.68,18420.58
+9,"Alaska Net","Alaska Net",2015,18766,13808.73,25642.52
+9,"Alaska Net","Alaska Net",2016,25206,18547.55,19932.56
+10,"North B.C. Net","North B.C. Net",1979,55472,36551.37,39592.47
+10,"North B.C. Net","North B.C. Net",1980,35882,32809.06,35505.24
+10,"North B.C. Net","North B.C. Net",1981,53337,36871.74,41428.48
+10,"North B.C. Net","North B.C. Net",1982,77462,62342.05,66397.51
+10,"North B.C. Net","North B.C. Net",1983,25318,18851.78,20067.79
+10,"North B.C. Net","North B.C. Net",1984,47293,36397.88,39068.19
+10,"North B.C. Net","North B.C. Net",1985,63177,47972.39,51412.07
+10,"North B.C. Net","North B.C. Net",1986,38061,28900.96,31038.63
+10,"North B.C. Net","North B.C. Net",1987,38579,29294.25,31115.24
+10,"North B.C. Net","North B.C. Net",1988,27550,20919.61,22017.06
+10,"North B.C. Net","North B.C. Net",1989,42005,31895.88,33811.23
+10,"North B.C. Net","North B.C. Net",1990,32132,24399,25887.91
+10,"North B.C. Net","North B.C. Net",1991,49303,37437.51,39604.35
+10,"North B.C. Net","North B.C. Net",1992,35004,26579.88,27958.69
+10,"North B.C. Net","North B.C. Net",1993,35883,27247.31,28226.37
+10,"North B.C. Net","North B.C. Net",1994,18910,14359.2,14865.39
+10,"North B.C. Net","North B.C. Net",1995,24300,18451.89,24369.39
+10,"North B.C. Net","North B.C. Net",1996,30589,23227.25,29786.07
+10,"North B.C. Net","North B.C. Net",1997,20831,15817.66,18116.18
+10,"North B.C. Net","North B.C. Net",1998,6136,4659.31,5230.08
+10,"North B.C. Net","North B.C. Net",1999,8662,6577.37,8333.22
+10,"North B.C. Net","North B.C. Net",2000,19715,14970.26,17194.2
+10,"North B.C. Net","North B.C. Net",2001,22667,17211.79,39282.62
+10,"North B.C. Net","North B.C. Net",2002,13515,10262.36,23407.11
+10,"North B.C. Net","North B.C. Net",2003,13400,10175.05,11159.97
+10,"North B.C. Net","North B.C. Net",2004,11917,9049.08,17629.33
+10,"North B.C. Net","North B.C. Net",2005,6850,5201.43,5929.71
+10,"North B.C. Net","North B.C. Net",2006,12561,9537.95,10662.33
+10,"North B.C. Net","North B.C. Net",2007,10079,7653.48,14776
+10,"North B.C. Net","North B.C. Net",2008,5938,4508.99,5107.7
+10,"North B.C. Net","North B.C. Net",2009,3083,2341.04,2688.41
+10,"North B.C. Net","North B.C. Net",2010,2182,1656.86,2207.45
+10,"North B.C. Net","North B.C. Net",2011,3586,2722.96,3371.14
+10,"North B.C. Net","North B.C. Net",2012,780,592.24,3214.69
+10,"North B.C. Net","North B.C. Net",2013,2126,1614.34,3955.59
+10,"North B.C. Net","North B.C. Net",2014,2632,1998.59,6338.7
+10,"North B.C. Net","North B.C. Net",2015,2434,1848.21,2314.36
+10,"North B.C. Net","North B.C. Net",2016,1222,927.89,2049.67
+11,"Central B.C. Net","Central B.C. Net",1979,76120,91967.57,102745.41
+11,"Central B.C. Net","Central B.C. Net",1980,49142,88758.17,101032.32
+11,"Central B.C. Net","Central B.C. Net",1981,29458,181609.92,211162.24
+11,"Central B.C. Net","Central B.C. Net",1982,47082,136886.31,148894.94
+11,"Central B.C. Net","Central B.C. Net",1983,32575,13243.25,14725.79
+11,"Central B.C. Net","Central B.C. Net",1984,9644,6509.65,7213.16
+11,"Central B.C. Net","Central B.C. Net",1985,27141,57722.51,64451.19
+11,"Central B.C. Net","Central B.C. Net",1986,55391,117803.54,134193.92
+11,"Central B.C. Net","Central B.C. Net",1987,21395,45502.11,49874.85
+11,"Central B.C. Net","Central B.C. Net",1988,21224,45138.41,51265.57
+11,"Central B.C. Net","Central B.C. Net",1989,6275,13345.44,14746.8
+11,"Central B.C. Net","Central B.C. Net",1990,28489,60589.39,68364.67
+11,"Central B.C. Net","Central B.C. Net",1991,15024,31952.49,35695.92
+11,"Central B.C. Net","Central B.C. Net",1992,17030,36218.8,40238.52
+11,"Central B.C. Net","Central B.C. Net",1993,7791,16569.6,17912.83
+11,"Central B.C. Net","Central B.C. Net",1994,9310,19800.23,22062.54
+11,"Central B.C. Net","Central B.C. Net",1995,3992,8490.1,11672.99
+11,"Central B.C. Net","Central B.C. Net",1996,7201,15314.83,21355.39
+11,"Central B.C. Net","Central B.C. Net",1997,3650,7762.67,10165.19
+11,"Central B.C. Net","Central B.C. Net",1998,5467,11627.04,15321.47
+11,"Central B.C. Net","Central B.C. Net",1999,4342,9234.45,11356.44
+11,"Central B.C. Net","Central B.C. Net",2000,3197,6799.26,8344.82
+11,"Central B.C. Net","Central B.C. Net",2001,6465,13749.52,18788.51
+11,"Central B.C. Net","Central B.C. Net",2002,4676,9944.78,12797.34
+11,"Central B.C. Net","Central B.C. Net",2003,2815,5986.81,7960.41
+11,"Central B.C. Net","Central B.C. Net",2004,5404,11493.03,13818.22
+11,"Central B.C. Net","Central B.C. Net",2005,6305,13409.24,17340.49
+11,"Central B.C. Net","Central B.C. Net",2006,5441,11571.74,15109.85
+11,"Central B.C. Net","Central B.C. Net",2007,5542,11786.56,24898.13
+11,"Central B.C. Net","Central B.C. Net",2008,1133,2409.63,2657.92
+11,"Central B.C. Net","Central B.C. Net",2009,3132,6661.01,12531.59
+11,"Central B.C. Net","Central B.C. Net",2010,1549,3294.36,3910.05
+11,"Central B.C. Net","Central B.C. Net",2011,4794,10195.68,19190.76
+11,"Central B.C. Net","Central B.C. Net",2012,3613,7684.05,9466.67
+11,"Central B.C. Net","Central B.C. Net",2013,5301,11273.99,16339.75
+11,"Central B.C. Net","Central B.C. Net",2014,2238,4759.69,7765.22
+11,"Central B.C. Net","Central B.C. Net",2015,5351,11380.3,14655.73
+11,"Central B.C. Net","Central B.C. Net",2016,3192,6788.67,9822.02
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1979,35623,40766.64,43769.12
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1980,34732,60541.34,64199.82
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1981,36411,60032.82,66770.72
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1982,41172,96891.43,100304.11
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1983,37535,61178.55,63596.14
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1984,43792,97908.83,101072.28
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1985,11089,20185.58,21373.18
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1986,3276,5963.32,6240.42
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1987,478,870.18,916.9
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1988,15438,28104.4,29087.56
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1989,40321,73405.29,75814.4
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1990,29578,53847.06,55518.29
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1991,60797,110680.77,113372.49
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1992,9486,17270.6,17597.36
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1993,28694,52237.49,52793.29
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1994,2369,4312.79,4366.62
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1995,458,833.72,857.2
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1996,58,105.6,115.45
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1997,208,378.73,388.22
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1998,345,628.01,635.89
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",1999,112,203.87,218.55
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2000,126,229.32,279.64
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2001,11,20.01,2426
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2002,260,473.3,725.84
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2003,9251,16841.01,17573.89
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2004,12348,22487.54,23114.97
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2005,23599,42959.43,43554.41
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2006,20308,36984.7,37846.49
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2007,26881,48936.51,49668.47
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2008,8257,15032.51,15373.53
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2009,9765,17775.72,18543.2
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2010,1747,3180.32,3856.53
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2011,21843,39763.04,40379.11
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2012,10214,18592.88,19080.08
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2013,8854,16117.82,16469.21
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2014,19090,34750.56,36021.49
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2015,10131,18446.23,19115.79
+12,"West Coast Vancouver Island Net","West Coast Vancouver Island Net",2016,5125,9329.57,9618.56
+13,"Juan De Fuca Net","Juan De Fuca Net",1979,34912,48779.19,53047.59
+13,"Juan De Fuca Net","Juan De Fuca Net",1980,7883,57720.61,64216.59
+13,"Juan De Fuca Net","Juan De Fuca Net",1981,29245,152197.61,172310.43
+13,"Juan De Fuca Net","Juan De Fuca Net",1982,16961,62229.41,65788.9
+13,"Juan De Fuca Net","Juan De Fuca Net",1983,3689,31065.87,34241.01
+13,"Juan De Fuca Net","Juan De Fuca Net",1984,20802,25361.89,28288.82
+13,"Juan De Fuca Net","Juan De Fuca Net",1985,44617,148348.97,161644.97
+13,"Juan De Fuca Net","Juan De Fuca Net",1986,59851,199001.22,222661.77
+13,"Juan De Fuca Net","Juan De Fuca Net",1987,11255,37422.23,40044.82
+13,"Juan De Fuca Net","Juan De Fuca Net",1988,11781,39171.16,43791.86
+13,"Juan De Fuca Net","Juan De Fuca Net",1989,32008,106424.8,114941.73
+13,"Juan De Fuca Net","Juan De Fuca Net",1990,12798,42552.66,47271.39
+13,"Juan De Fuca Net","Juan De Fuca Net",1991,11780,39167.81,42912.17
+13,"Juan De Fuca Net","Juan De Fuca Net",1992,15605,51885.76,56395.8
+13,"Juan De Fuca Net","Juan De Fuca Net",1993,2813,9353.1,9942.89
+13,"Juan De Fuca Net","Juan De Fuca Net",1994,13840,46017.24,64635.53
+13,"Juan De Fuca Net","Juan De Fuca Net",1995,1530,5087.14,5571.28
+13,"Juan De Fuca Net","Juan De Fuca Net",1996,655,2177.8,2397.6
+13,"Juan De Fuca Net","Juan De Fuca Net",1997,657,2184.51,2340.84
+13,"Juan De Fuca Net","Juan De Fuca Net",1998,495,1645.87,1780.6
+13,"Juan De Fuca Net","Juan De Fuca Net",1999,771,2563.53,4167.85
+13,"Juan De Fuca Net","Juan De Fuca Net",2000,199,661.64,868.81
+13,"Juan De Fuca Net","Juan De Fuca Net",2001,439,1459.63,65485.13
+13,"Juan De Fuca Net","Juan De Fuca Net",2002,345,1147.13,14760.15
+13,"Juan De Fuca Net","Juan De Fuca Net",2003,292,970.89,3526.15
+13,"Juan De Fuca Net","Juan De Fuca Net",2004,187,621.75,3463.74
+13,"Juan De Fuca Net","Juan De Fuca Net",2005,164,545.27,2810.58
+13,"Juan De Fuca Net","Juan De Fuca Net",2006,155,515.38,3277.07
+13,"Juan De Fuca Net","Juan De Fuca Net",2007,138,458.83,2188.62
+13,"Juan De Fuca Net","Juan De Fuca Net",2008,172,571.9,1687.98
+13,"Juan De Fuca Net","Juan De Fuca Net",2009,1,3.32,3.69
+13,"Juan De Fuca Net","Juan De Fuca Net",2010,206,684.95,731.31
+13,"Juan De Fuca Net","Juan De Fuca Net",2011,1,3.31,3.61
+13,"Juan De Fuca Net","Juan De Fuca Net",2012,284,944.27,1047.27
+13,"Juan De Fuca Net","Juan De Fuca Net",2013,1,3.24,3.49
+13,"Juan De Fuca Net","Juan De Fuca Net",2014,137,455.54,511.69
+13,"Juan De Fuca Net","Juan De Fuca Net",2015,17,56.53,60.83
+13,"Juan De Fuca Net","Juan De Fuca Net",2016,5,16.64,4130.81
+13,"Juan De Fuca Net","Juan De Fuca Net",2017,89,295.92,34685.17
+14,"Puget Sound North Net","Puget Sound North Net",1979,64689,88898.42,122383
+14,"Puget Sound North Net","Puget Sound North Net",1980,75658,97920.33,149133.86
+14,"Puget Sound North Net","Puget Sound North Net",1981,69236,247613.1,417782.17
+14,"Puget Sound North Net","Puget Sound North Net",1982,61310,127661.73,157605.15
+14,"Puget Sound North Net","Puget Sound North Net",1983,44638,72207.17,98429.42
+14,"Puget Sound North Net","Puget Sound North Net",1984,45552,86021.91,134313.8
+14,"Puget Sound North Net","Puget Sound North Net",1985,46363,92489.28,128295.79
+14,"Puget Sound North Net","Puget Sound North Net",1986,38000,75807.84,113742.87
+14,"Puget Sound North Net","Puget Sound North Net",1987,40000,79796.53,100541.24
+14,"Puget Sound North Net","Puget Sound North Net",1988,42000,83791.48,128191.79
+14,"Puget Sound North Net","Puget Sound North Net",1989,26000,51872.5,70507.13
+14,"Puget Sound North Net","Puget Sound North Net",1990,13902,27734.03,42703.78
+14,"Puget Sound North Net","Puget Sound North Net",1991,15143,30210.55,44102.38
+14,"Puget Sound North Net","Puget Sound North Net",1992,14938,29800.37,41210.35
+14,"Puget Sound North Net","Puget Sound North Net",1993,15484,30892.48,37429.41
+14,"Puget Sound North Net","Puget Sound North Net",1994,19772,39448.02,53674.27
+14,"Puget Sound North Net","Puget Sound North Net",1995,10102,20153.22,28124.11
+14,"Puget Sound North Net","Puget Sound North Net",1996,4538,9052.83,13257.62
+14,"Puget Sound North Net","Puget Sound North Net",1997,30085,60016.79,75619.47
+14,"Puget Sound North Net","Puget Sound North Net",1998,4069,8117.23,10084.14
+14,"Puget Sound North Net","Puget Sound North Net",1999,592,1180.97,1587.16
+14,"Puget Sound North Net","Puget Sound North Net",2000,1731,3453.19,4995.77
+14,"Puget Sound North Net","Puget Sound North Net",2001,1901,3792.27,5596.53
+14,"Puget Sound North Net","Puget Sound North Net",2002,3307,6597.16,9352.93
+14,"Puget Sound North Net","Puget Sound North Net",2003,5735,11440.77,13954.44
+14,"Puget Sound North Net","Puget Sound North Net",2004,5776,11522.59,13005.48
+14,"Puget Sound North Net","Puget Sound North Net",2005,4533,9043.03,11238.75
+14,"Puget Sound North Net","Puget Sound North Net",2006,6235,12438.58,13840.32
+14,"Puget Sound North Net","Puget Sound North Net",2007,2728,5442.16,7696.37
+14,"Puget Sound North Net","Puget Sound North Net",2008,4627,9230.73,11603.2
+14,"Puget Sound North Net","Puget Sound North Net",2009,1113,2220.32,3424.2
+14,"Puget Sound North Net","Puget Sound North Net",2010,7289,14540.82,17951.83
+14,"Puget Sound North Net","Puget Sound North Net",2011,6162,12292.91,15761.32
+14,"Puget Sound North Net","Puget Sound North Net",2012,1964,3918.01,5658.34
+14,"Puget Sound North Net","Puget Sound North Net",2013,4419,8815.47,11646.87
+14,"Puget Sound North Net","Puget Sound North Net",2014,8140,16239.01,24291.97
+14,"Puget Sound North Net","Puget Sound North Net",2015,5604,11179.57,14507.41
+14,"Puget Sound North Net","Puget Sound North Net",2016,270,538.64,663.6
+15,"Puget Sound Other Net","Puget Sound Other Net",1979,128073,127818.07,173327.12
+15,"Puget Sound Other Net","Puget Sound Other Net",1980,171516,173530.78,268377.32
+15,"Puget Sound Other Net","Puget Sound Other Net",1981,145152,509853.11,869778.59
+15,"Puget Sound Other Net","Puget Sound Other Net",1982,149274,124602.07,147438.75
+15,"Puget Sound Other Net","Puget Sound Other Net",1983,134492,95539.03,136899.11
+15,"Puget Sound Other Net","Puget Sound Other Net",1984,180248,163811.7,251862.66
+15,"Puget Sound Other Net","Puget Sound Other Net",1985,184907,97730.44,122491.8
+15,"Puget Sound Other Net","Puget Sound Other Net",1986,153000,99424.13,147634.3
+15,"Puget Sound Other Net","Puget Sound Other Net",1987,127000,61576.42,72053.95
+15,"Puget Sound Other Net","Puget Sound Other Net",1988,133000,142487.94,223141.14
+15,"Puget Sound Other Net","Puget Sound Other Net",1989,156000,87188.62,106257.23
+15,"Puget Sound Other Net","Puget Sound Other Net",1990,179593,146731.22,212016.57
+15,"Puget Sound Other Net","Puget Sound Other Net",1991,89495,141068.09,191916.9
+15,"Puget Sound Other Net","Puget Sound Other Net",1992,63460,103256.89,136747.23
+15,"Puget Sound Other Net","Puget Sound Other Net",1993,54968,42076.06,46070.59
+15,"Puget Sound Other Net","Puget Sound Other Net",1994,63577,42390.6,48901.56
+15,"Puget Sound Other Net","Puget Sound Other Net",1995,63593,56201.27,64971.35
+15,"Puget Sound Other Net","Puget Sound Other Net",1996,61658,112614.98,146515.14
+15,"Puget Sound Other Net","Puget Sound Other Net",1997,47522,47563.88,52920.96
+15,"Puget Sound Other Net","Puget Sound Other Net",1998,50915,56193.28,71858.88
+15,"Puget Sound Other Net","Puget Sound Other Net",1999,91947,66906.02,76694.87
+15,"Puget Sound Other Net","Puget Sound Other Net",2000,79494,68812.63,90492.02
+15,"Puget Sound Other Net","Puget Sound Other Net",2001,123266,101583.75,143705.5
+15,"Puget Sound Other Net","Puget Sound Other Net",2002,108566,72490.7,84999.37
+15,"Puget Sound Other Net","Puget Sound Other Net",2003,86206,66555.97,76756.12
+15,"Puget Sound Other Net","Puget Sound Other Net",2004,69211,54287.57,60668.07
+15,"Puget Sound Other Net","Puget Sound Other Net",2005,82629,66921.86,78648.05
+15,"Puget Sound Other Net","Puget Sound Other Net",2006,109557,64076.8,67663.7
+15,"Puget Sound Other Net","Puget Sound Other Net",2007,118628,83990.96,101726.55
+15,"Puget Sound Other Net","Puget Sound Other Net",2008,101322,67427.42,71611.13
+15,"Puget Sound Other Net","Puget Sound Other Net",2009,68764,84800.36,117693.28
+15,"Puget Sound Other Net","Puget Sound Other Net",2010,80599,59557.16,66102.75
+15,"Puget Sound Other Net","Puget Sound Other Net",2011,100353,62783.26,70375.16
+15,"Puget Sound Other Net","Puget Sound Other Net",2012,117259,72351.71,82877.86
+15,"Puget Sound Other Net","Puget Sound Other Net",2013,105136,80165.32,96641.91
+15,"Puget Sound Other Net","Puget Sound Other Net",2014,50106,45286.33,52859.19
+15,"Puget Sound Other Net","Puget Sound Other Net",2015,55959,38662.59,40985.36
+15,"Puget Sound Other Net","Puget Sound Other Net",2016,55959,41788.34,46926.86
+16,"Washington Coast Net","Washington Coast Net",1979,36501,0,0
+16,"Washington Coast Net","Washington Coast Net",1980,47681,3305.39,4164.2
+16,"Washington Coast Net","Washington Coast Net",1981,36880,2623.81,3546.82
+16,"Washington Coast Net","Washington Coast Net",1982,33271,2659.68,3342.62
+16,"Washington Coast Net","Washington Coast Net",1983,16210,1198.41,1558.07
+16,"Washington Coast Net","Washington Coast Net",1984,16239,1306.63,1760.5
+16,"Washington Coast Net","Washington Coast Net",1985,25162,1088.45,1475.18
+16,"Washington Coast Net","Washington Coast Net",1986,29000,1083.83,1545.38
+16,"Washington Coast Net","Washington Coast Net",1987,51000,2211.42,2596.74
+16,"Washington Coast Net","Washington Coast Net",1988,74000,1525.61,1852.4
+16,"Washington Coast Net","Washington Coast Net",1989,85000,1178.77,1483.72
+16,"Washington Coast Net","Washington Coast Net",1990,57770,971.8,1345.44
+16,"Washington Coast Net","Washington Coast Net",1991,54397,1271.28,1689.03
+16,"Washington Coast Net","Washington Coast Net",1992,64223,1125.9,1370.24
+16,"Washington Coast Net","Washington Coast Net",1993,59285,737.05,881.28
+16,"Washington Coast Net","Washington Coast Net",1994,46059,631.24,793.26
+16,"Washington Coast Net","Washington Coast Net",1995,46490,723.7,975.46
+16,"Washington Coast Net","Washington Coast Net",1996,55408,930.64,1127.71
+16,"Washington Coast Net","Washington Coast Net",1997,28269,918.8,1061.1
+16,"Washington Coast Net","Washington Coast Net",1998,20266,572.04,765.48
+16,"Washington Coast Net","Washington Coast Net",1999,11400,921.98,1236.11
+16,"Washington Coast Net","Washington Coast Net",2000,15660,883.3,1327.36
+16,"Washington Coast Net","Washington Coast Net",2001,19480,2635.05,3762.32
+16,"Washington Coast Net","Washington Coast Net",2002,23372,4409.89,5739.4
+16,"Washington Coast Net","Washington Coast Net",2003,18443,5729.88,6749.1
+16,"Washington Coast Net","Washington Coast Net",2004,21965,4439.76,5385.16
+16,"Washington Coast Net","Washington Coast Net",2005,20668,2825.01,3209.09
+16,"Washington Coast Net","Washington Coast Net",2006,27414,813.54,1027.13
+16,"Washington Coast Net","Washington Coast Net",2007,12353,509.34,730.62
+16,"Washington Coast Net","Washington Coast Net",2008,15028,1320.62,1757.46
+16,"Washington Coast Net","Washington Coast Net",2009,18728,1283.17,1790.07
+16,"Washington Coast Net","Washington Coast Net",2010,12794,2602.96,3471.26
+16,"Washington Coast Net","Washington Coast Net",2011,39034,1768.25,2420.2
+16,"Washington Coast Net","Washington Coast Net",2012,29232,1632.76,2254.77
+16,"Washington Coast Net","Washington Coast Net",2013,31111,2013.55,2789.07
+16,"Washington Coast Net","Washington Coast Net",2014,39514,3072.7,4097.31
+16,"Washington Coast Net","Washington Coast Net",2015,32494,3141.78,3766.35
+16,"Washington Coast Net","Washington Coast Net",2016,32494,1717.61,2204.79
+17,"Columbia River Net","Columbia River Net",1979,177556,118253.53,123113.51
+17,"Columbia River Net","Columbia River Net",1980,149173,118544.33,123406.21
+17,"Columbia River Net","Columbia River Net",1981,90071,109113.75,114330.13
+17,"Columbia River Net","Columbia River Net",1982,161513,141177.94,148914.27
+17,"Columbia River Net","Columbia River Net",1983,66913,49793.99,52163.9
+17,"Columbia River Net","Columbia River Net",1984,135309,107654.33,112634.67
+17,"Columbia River Net","Columbia River Net",1985,155418,137713.89,144359.79
+17,"Columbia River Net","Columbia River Net",1986,286616,275067.45,290396.32
+17,"Columbia River Net","Columbia River Net",1987,495100,347808.43,363767.96
+17,"Columbia River Net","Columbia River Net",1988,506791,338667.79,348229.92
+17,"Columbia River Net","Columbia River Net",1989,292598,128294.63,132497.33
+17,"Columbia River Net","Columbia River Net",1990,158919,93175.43,96155.64
+17,"Columbia River Net","Columbia River Net",1991,114866,80056.65,83273.51
+17,"Columbia River Net","Columbia River Net",1992,63679,45195.93,47109.86
+17,"Columbia River Net","Columbia River Net",1993,71445,44331.8,45979.9
+17,"Columbia River Net","Columbia River Net",1994,39406,35974.9,37023.52
+17,"Columbia River Net","Columbia River Net",1995,43787,43272.96,45061.21
+17,"Columbia River Net","Columbia River Net",1996,88730,96584.66,100654.71
+17,"Columbia River Net","Columbia River Net",1997,87741,66127.33,67896.02
+17,"Columbia River Net","Columbia River Net",1998,54819,50471.5,52660.68
+17,"Columbia River Net","Columbia River Net",1999,91254,85188.7,88504.69
+17,"Columbia River Net","Columbia River Net",2000,92166,51407.25,53473.04
+17,"Columbia River Net","Columbia River Net",2001,243325,158287.49,166696.25
+17,"Columbia River Net","Columbia River Net",2002,265152,168764.82,176675.49
+17,"Columbia River Net","Columbia River Net",2003,233650,172767.16,178016.27
+17,"Columbia River Net","Columbia River Net",2004,244220,171469.75,178285.91
+17,"Columbia River Net","Columbia River Net",2005,183405,153844.01,158662.29
+17,"Columbia River Net","Columbia River Net",2006,160018,106710.99,110246.82
+17,"Columbia River Net","Columbia River Net",2007,90530,63884.06,66764.85
+17,"Columbia River Net","Columbia River Net",2008,200123,127886.09,135207.29
+17,"Columbia River Net","Columbia River Net",2009,176224,190068.9,199637.3
+17,"Columbia River Net","Columbia River Net",2010,306038,232433.63,246194.71
+17,"Columbia River Net","Columbia River Net",2011,274873,232986.65,243102.18
+17,"Columbia River Net","Columbia River Net",2012,238961,140888.22,148923.02
+17,"Columbia River Net","Columbia River Net",2013,378510,334010.16,350924.76
+17,"Columbia River Net","Columbia River Net",2014,453239,421802.72,437558.31
+17,"Columbia River Net","Columbia River Net",2015,472414,298551.95,310153.64
+17,"Columbia River Net","Columbia River Net",2016,472414,244293.85,252863.33
+18,"Alaska Terminal Net","Alaska Terminal Net",1979,100,10815.51,11219.89
+18,"Alaska Terminal Net","Alaska Terminal Net",1980,100,15960.23,16380.15
+18,"Alaska Terminal Net","Alaska Terminal Net",1981,100,15329.59,15606.41
+18,"Alaska Terminal Net","Alaska Terminal Net",1982,100,8761.87,8942.26
+18,"Alaska Terminal Net","Alaska Terminal Net",1983,0,4404.34,4568.13
+18,"Alaska Terminal Net","Alaska Terminal Net",1984,0,3334.37,3443.68
+18,"Alaska Terminal Net","Alaska Terminal Net",1985,0,10107.62,10401.05
+18,"Alaska Terminal Net","Alaska Terminal Net",1986,0,11628.9,11964.57
+18,"Alaska Terminal Net","Alaska Terminal Net",1987,0,12910.13,13237.08
+18,"Alaska Terminal Net","Alaska Terminal Net",1988,0,12674.8,13042.73
+18,"Alaska Terminal Net","Alaska Terminal Net",1989,0,13575.03,13933.48
+18,"Alaska Terminal Net","Alaska Terminal Net",1990,0,14419.58,14848.57
+18,"Alaska Terminal Net","Alaska Terminal Net",1991,0,15347.41,15859.41
+18,"Alaska Terminal Net","Alaska Terminal Net",1992,0,20392.49,20889.94
+18,"Alaska Terminal Net","Alaska Terminal Net",1993,0,19548.42,19941.32
+18,"Alaska Terminal Net","Alaska Terminal Net",1994,0,13852.94,14240.72
+18,"Alaska Terminal Net","Alaska Terminal Net",1995,0,13102.86,13670.77
+18,"Alaska Terminal Net","Alaska Terminal Net",1996,3306,22767.25,23268.42
+18,"Alaska Terminal Net","Alaska Terminal Net",1997,3482,21002.69,21331.4
+18,"Alaska Terminal Net","Alaska Terminal Net",1998,804,9596.6,9850.15
+18,"Alaska Terminal Net","Alaska Terminal Net",1999,3108,7950.28,8256.44
+18,"Alaska Terminal Net","Alaska Terminal Net",2000,881,13129.86,13604.78
+18,"Alaska Terminal Net","Alaska Terminal Net",2001,631,19682.43,20147.37
+18,"Alaska Terminal Net","Alaska Terminal Net",2002,510,18031.75,18465.05
+18,"Alaska Terminal Net","Alaska Terminal Net",2003,1566,15631.59,16061.8
+18,"Alaska Terminal Net","Alaska Terminal Net",2004,5718,19651.81,20127.66
+18,"Alaska Terminal Net","Alaska Terminal Net",2005,36385,19382.75,19742.77
+18,"Alaska Terminal Net","Alaska Terminal Net",2006,25163,11313.76,11534.39
+18,"Alaska Terminal Net","Alaska Terminal Net",2007,6628,6502.13,6669.68
+18,"Alaska Terminal Net","Alaska Terminal Net",2008,4477,7142.29,7325.75
+18,"Alaska Terminal Net","Alaska Terminal Net",2009,3711,7606.62,7809.5
+18,"Alaska Terminal Net","Alaska Terminal Net",2010,0,8310.18,8516.28
+18,"Alaska Terminal Net","Alaska Terminal Net",2011,542,8995.75,9194.95
+18,"Alaska Terminal Net","Alaska Terminal Net",2012,781,8786.22,8984.45
+18,"Alaska Terminal Net","Alaska Terminal Net",2013,27,8011.73,8224.36
+18,"Alaska Terminal Net","Alaska Terminal Net",2014,0,8990.62,9225.85
+18,"Alaska Terminal Net","Alaska Terminal Net",2015,0,10895.41,11120.48
+18,"Alaska Terminal Net","Alaska Terminal Net",2016,0,9921.99,10130.9
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1979,-999,1556.71,1620.56
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1980,-999,1721.22,1768.35
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1981,-999,1555.19,1582.96
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1982,-999,1121.89,1145.02
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1983,-999,711.49,741.5
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1984,-999,449.03,465.19
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1985,-999,1389.16,1432.41
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1986,-999,1396,1438.76
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1987,-999,1678.46,1722.77
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1988,-999,1623.78,1675.24
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1989,-999,1695.27,1742.9
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1990,-999,2098.93,2166.23
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1991,-999,1991.49,2062.36
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1992,-999,2283.65,2340.68
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1993,-999,2116.2,2159.48
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1994,-999,2275.4,2342.95
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1995,-999,1846.02,1932.68
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1996,-999,2229.76,2279.62
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1997,-999,2301.45,2336.45
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1998,-999,1321.63,1358.43
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",1999,-999,1469.4,1533.24
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2000,-999,1651.35,1715.15
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2001,-999,2252.3,2305.29
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2002,-999,2401.6,2466.92
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2003,-999,2130.03,2203.41
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2004,-999,2111.34,2167.94
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2005,-999,2025.71,2061.35
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2006,-999,1357.49,1385.97
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2007,-999,840.39,866.84
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2008,-999,936.82,965.17
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2009,-999,999.56,1031.17
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2010,-999,1062.16,1094.46
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2011,-999,1056.16,1085.42
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2012,-999,1115.19,1144.39
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2013,-999,1143.48,1182
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2014,-999,1127.54,1164.91
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2015,-999,1288.29,1321.84
+19,"North B.C. Freshwater Net","North B.C. Freshwater Net",2016,-999,1213.26,1245.62
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1979,-999,295.05,298.76
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1980,-999,331.86,335.85
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1981,-999,455.38,465.13
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1982,-999,421.48,430.29
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1983,-999,366.12,371.27
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1984,-999,215.11,218.23
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1985,-999,735.87,744.11
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1986,-999,891.57,900.23
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1987,-999,758.14,766.08
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1988,-999,666.71,674.64
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1989,-999,677.89,683.53
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1990,-999,675.62,685.48
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1991,-999,932.84,948.17
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1992,-999,1245.76,1259.91
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1993,-999,1230.29,1242.68
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1994,-999,910.57,920.87
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1995,-999,624.49,631.61
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1996,-999,426.7,432.93
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1997,-999,464.6,471.56
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1998,-999,484.53,494.18
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",1999,-999,619.98,634.12
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2000,-999,656.14,665.68
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2001,-999,826.36,839.89
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2002,-999,713.22,721.93
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2003,-999,428.21,434.96
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2004,-999,574.36,581.6
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2005,-999,549.28,556.42
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2006,-999,721.26,730.48
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2007,-999,462.07,468.6
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2008,-999,498.06,506.36
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2009,-999,569.58,580.37
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2010,-999,429.49,435.75
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2011,-999,332.35,337.06
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2012,-999,501.73,511.43
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2013,-999,757.3,771.37
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2014,-999,614.53,626.82
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2015,-999,708.62,718.85
+20,"Central B.C. Freshwater Net","Central B.C. Freshwater Net",2016,-999,540.67,548.3
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1979,-999,453.97,491.7
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1980,-999,419.06,447.53
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1981,-999,289.13,307.92
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1982,-999,183.1,195.51
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1983,-999,265.23,287.87
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1984,-999,150.04,163.47
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1985,-999,312.56,337.16
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1986,-999,264.49,287.37
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1987,-999,368.89,396.83
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1988,-999,237.1,260.4
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1989,-999,407.33,443.6
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1990,-999,436.84,471.46
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1991,-999,641.84,694.95
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1992,-999,675.49,720.86
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1993,-999,498.67,543.77
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1994,-999,661.04,714.43
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1995,-999,1075.16,1157.13
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1996,-999,670.87,718.15
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1997,-999,445.78,462.13
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1998,-999,350.86,364.64
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",1999,-999,200.48,212.86
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2000,-999,273,285.93
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2001,-999,297.81,310.63
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2002,-999,182.17,189.04
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2003,-999,175.35,181.55
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2004,-999,156.83,162.21
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2005,-999,128.27,133.08
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2006,-999,124.49,129.98
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2007,-999,144.03,150.28
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2008,-999,162.15,168.15
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2009,-999,115.79,120.49
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2010,-999,135.98,145.67
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2011,-999,254.77,267.06
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2012,-999,212.31,221.63
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2013,-999,230.24,247.3
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2014,-999,407.83,437.72
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2015,-999,307.23,323.79
+21,"Georgia Strait Freshwater Net","Georgia Strait Freshwater Net",2016,-999,390.46,411.07
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1979,-999,15749.98,16183.47
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1980,-999,16464.66,16912.79
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1981,-999,15183.01,15611.69
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1982,-999,16083.5,16553.63
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1983,-999,15651,16170.24
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1984,-999,9245.1,9615.43
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1985,-999,30934.74,32086.56
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1986,-999,41238.29,42658.91
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1987,-999,49308.2,51012.01
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1988,-999,58642.56,60366.58
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1989,-999,48740.3,50218.17
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1990,-999,46436.67,47727.31
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1991,-999,36742.44,37873.03
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1992,-999,31261.74,32199.83
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1993,-999,34819.49,36040.7
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1994,-999,45695.13,47290.8
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1995,-999,65062.71,67133.2
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1996,-999,72081.61,74217.58
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1997,-999,55351.48,57079.52
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1998,-999,58924.07,60277.3
+22,"Fraser Freshwater Net","Fraser Freshwater Net",1999,-999,39711.96,40850.2
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2000,-999,76345.75,80976.2
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2001,-999,418456.86,427357.98
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2002,-999,84528.64,87384.63
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2003,-999,348652.7,373700.49
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2004,-999,2901993.13,2958346.03
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2005,-999,1197765.64,1241802.83
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2006,-999,1704590.61,1749585.83
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2007,-999,1263562.15,1302669.28
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2008,-999,1056916.12,1079520.83
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2009,-999,256518.25,262429.8
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2010,-999,50532.42,52159.88
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2011,-999,39147.46,40864.49
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2012,-999,88612.97,91173.48
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2013,-999,31277.52,32731.24
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2014,-999,45706.04,47556.29
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2015,-999,49791.25,51870.46
+22,"Fraser Freshwater Net","Fraser Freshwater Net",2016,-999,334541.48,339912.12
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1979,-999,70953.2,73965.65
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1980,-999,75294.14,78120.08
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1981,-999,71417.93,74780.01
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1982,-999,86612.11,90524.57
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1983,-999,96241.99,99353.17
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1984,-999,90310.76,94775.77
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1985,-999,96714.72,101286.78
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1986,-999,83981.04,87609.55
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1987,-999,64128.17,66942.48
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1988,-999,60821.54,63151.89
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1989,-999,86453.64,90274.73
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1990,-999,83516.07,86850.22
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1991,-999,70189.46,73512.3
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1992,-999,64022.62,66573.54
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1993,-999,60773.42,62889.26
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1994,-999,53533.24,55116.29
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1995,-999,63061.12,65805.06
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1996,-999,74538.7,78208.31
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1997,-999,62611.57,65065.37
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1998,-999,72883.31,75123.69
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",1999,-999,78325.82,81444.04
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2000,-999,60321.59,62681.84
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2001,-999,75061.77,79815.82
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2002,-999,74931.69,78153.02
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2003,-999,62901.1,64827.94
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2004,-999,53628.49,55693.83
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2005,-999,51981.02,53791.15
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2006,-999,64195.57,66556.24
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2007,-999,63843.51,66576.76
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2008,-999,62356.44,65610.73
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2009,-999,49770.42,52181.37
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2010,-999,71742.56,75767.56
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2011,-999,63467.91,65914.54
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2012,-999,62767.08,66073.89
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2013,-999,61463.39,64716.1
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2014,-999,53125.82,55268.27
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2015,-999,43282.33,45005.25
+23,"Puget Sound Freshwater Net","Puget Sound Freshwater Net",2016,-999,39627.77,41049.2
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1979,-999,18618.86,19370.86
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1980,-999,19624.45,20341.54
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1981,-999,18057.85,18730.78
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1982,-999,17551.17,18287.78
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1983,-999,11844.08,12428.04
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1984,-999,7401.62,7773.49
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1985,-999,18212.84,19101.72
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1986,-999,18546.75,19573.81
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1987,-999,27641,29084.39
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1988,-999,35213.69,36183.22
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1989,-999,46157.79,47468.9
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1990,-999,37601.5,38737.4
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1991,-999,36724.79,38246.24
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1992,-999,36758.62,38074.18
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1993,-999,37440.37,38661.54
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1994,-999,29150.57,30192.27
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1995,-999,29036.9,30088.24
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1996,-999,25446.88,26268.09
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1997,-999,18303.27,18764.62
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1998,-999,10037.86,10313.18
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",1999,-999,6759.57,6974.42
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2000,-999,8671.26,9015.99
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2001,-999,13788.01,14458.95
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2002,-999,14094.87,14669.07
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2003,-999,11437.64,11766.47
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2004,-999,10190.03,10403.29
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2005,-999,11650.71,11904.91
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2006,-999,12865.04,13141.74
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2007,-999,9011.42,9298.45
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2008,-999,8298.44,8569.91
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2009,-999,12766.72,13128.42
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2010,-999,13034.08,13607.61
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2011,-999,20306.44,21026.92
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2012,-999,18989.5,19664.9
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2013,-999,20167.59,20897.59
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2014,-999,19972.38,20764.09
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2015,-999,14725.12,15169.6
+24,"Washington Coast Freshwater Net","Washington Coast Freshwater Net",2016,-999,11005.06,11376.52
+25,"Johnstone Strait Net","Johnstone Strait Net",1979,44323,83301.43,89943.1
+25,"Johnstone Strait Net","Johnstone Strait Net",1980,48881,73939.09,80881.66
+25,"Johnstone Strait Net","Johnstone Strait Net",1981,49393,124474.57,138809.61
+25,"Johnstone Strait Net","Johnstone Strait Net",1982,43134,108023.28,114557.13
+25,"Johnstone Strait Net","Johnstone Strait Net",1983,59876,54195.29,58415.93
+25,"Johnstone Strait Net","Johnstone Strait Net",1984,38065,36225.8,39731.14
+25,"Johnstone Strait Net","Johnstone Strait Net",1985,50948,86237.53,92872.77
+25,"Johnstone Strait Net","Johnstone Strait Net",1986,25422,43030.69,46728.37
+25,"Johnstone Strait Net","Johnstone Strait Net",1987,21134,35772.62,37880.73
+25,"Johnstone Strait Net","Johnstone Strait Net",1988,10785,18255.32,19761.48
+25,"Johnstone Strait Net","Johnstone Strait Net",1989,36639,62017.3,66144.25
+25,"Johnstone Strait Net","Johnstone Strait Net",1990,23733,40171.87,43445.42
+25,"Johnstone Strait Net","Johnstone Strait Net",1991,19714,33369.03,36036.53
+25,"Johnstone Strait Net","Johnstone Strait Net",1992,13896,23521.13,25232.51
+25,"Johnstone Strait Net","Johnstone Strait Net",1993,22858,38690.77,40826.61
+25,"Johnstone Strait Net","Johnstone Strait Net",1994,11683,19775.3,21333.99
+25,"Johnstone Strait Net","Johnstone Strait Net",1995,1644,2782.75,3003.39
+25,"Johnstone Strait Net","Johnstone Strait Net",1996,472,798.88,862.63
+25,"Johnstone Strait Net","Johnstone Strait Net",1997,1018,1723.1,1821.37
+25,"Johnstone Strait Net","Johnstone Strait Net",1998,328,555.17,584.01
+25,"Johnstone Strait Net","Johnstone Strait Net",1999,472,798.92,980.43
+25,"Johnstone Strait Net","Johnstone Strait Net",2000,280,473.93,1943.19
+25,"Johnstone Strait Net","Johnstone Strait Net",2001,332,561.94,4578.78
+25,"Johnstone Strait Net","Johnstone Strait Net",2002,569,963.08,16268.76
+25,"Johnstone Strait Net","Johnstone Strait Net",2003,306,517.95,1301.04
+25,"Johnstone Strait Net","Johnstone Strait Net",2004,525,888.64,1389.64
+25,"Johnstone Strait Net","Johnstone Strait Net",2005,215,363.91,638.37
+25,"Johnstone Strait Net","Johnstone Strait Net",2006,244,413.04,8855.9
+25,"Johnstone Strait Net","Johnstone Strait Net",2007,2,3.33,165.23
+25,"Johnstone Strait Net","Johnstone Strait Net",2008,48,81.28,1050.03
+25,"Johnstone Strait Net","Johnstone Strait Net",2009,597,1010.51,24385.43
+25,"Johnstone Strait Net","Johnstone Strait Net",2010,98,165.9,9612.14
+25,"Johnstone Strait Net","Johnstone Strait Net",2011,46,77.84,9058.63
+25,"Johnstone Strait Net","Johnstone Strait Net",2012,37,62.58,111.3
+25,"Johnstone Strait Net","Johnstone Strait Net",2013,35,59.28,761.58
+25,"Johnstone Strait Net","Johnstone Strait Net",2014,311,526.44,8454.68
+25,"Johnstone Strait Net","Johnstone Strait Net",2015,54,91.45,302.63
+25,"Johnstone Strait Net","Johnstone Strait Net",2016,22,37.22,187.57
+25,"Johnstone Strait Net","Johnstone Strait Net",2017,92,155.7,27059.28
+26,"Fraser Net","Fraser Net",1979,65935,66691.72,67595.52
+26,"Fraser Net","Fraser Net",1980,50546,66243.81,67071.91
+26,"Fraser Net","Fraser Net",1981,30736,48355.54,49954.66
+26,"Fraser Net","Fraser Net",1982,52776,67019.03,68054.94
+26,"Fraser Net","Fraser Net",1983,36979,753395.86,766056.62
+26,"Fraser Net","Fraser Net",1984,44964,39409.36,41307.31
+26,"Fraser Net","Fraser Net",1985,37785,14980.53,15434.93
+26,"Fraser Net","Fraser Net",1986,44441,71804.37,73392.79
+26,"Fraser Net","Fraser Net",1987,26171,10776.21,10992.75
+26,"Fraser Net","Fraser Net",1988,22687,15251.06,16007.51
+26,"Fraser Net","Fraser Net",1989,29509,12042.46,12417.97
+26,"Fraser Net","Fraser Net",1990,30327,9467.18,9803.41
+26,"Fraser Net","Fraser Net",1991,28707,10632.07,11032.11
+26,"Fraser Net","Fraser Net",1992,17430,11868.32,12168.69
+26,"Fraser Net","Fraser Net",1993,29280,10840.3,10992.7
+26,"Fraser Net","Fraser Net",1994,31194,10634.28,10754.72
+26,"Fraser Net","Fraser Net",1995,29258,3286.9,3371.83
+26,"Fraser Net","Fraser Net",1996,28332,3505.51,3766.09
+26,"Fraser Net","Fraser Net",1997,54595,4018.63,4097.85
+26,"Fraser Net","Fraser Net",1998,29399,6336.18,7513.06
+26,"Fraser Net","Fraser Net",1999,21436,2925.55,3069.25
+26,"Fraser Net","Fraser Net",2000,35236,6876.14,8052.16
+26,"Fraser Net","Fraser Net",2001,39575,11049.02,12024.19
+26,"Fraser Net","Fraser Net",2002,33605,3641.38,3761.23
+26,"Fraser Net","Fraser Net",2003,50088,8760.37,9023.67
+26,"Fraser Net","Fraser Net",2004,59519,420814.28,422551.03
+26,"Fraser Net","Fraser Net",2005,41736,33000.27,33765.22
+26,"Fraser Net","Fraser Net",2006,35935,80739.54,81340.47
+26,"Fraser Net","Fraser Net",2007,28146,11383.41,11903.73
+26,"Fraser Net","Fraser Net",2008,35887,4364.6,4529.29
+26,"Fraser Net","Fraser Net",2009,42014,7046.97,7918.83
+26,"Fraser Net","Fraser Net",2010,35864,950.36,1008.4
+26,"Fraser Net","Fraser Net",2011,65090,10333.65,13286.23
+26,"Fraser Net","Fraser Net",2012,44624,2554.57,2711.38
+26,"Fraser Net","Fraser Net",2013,23098,2055.19,5402.43
+26,"Fraser Net","Fraser Net",2014,52688,7871.6,14187.71
+26,"Fraser Net","Fraser Net",2015,50231,4663.6,5050.08
+26,"Fraser Net","Fraser Net",2016,50231,197317.06,198171.77
+27,"Alaska Sport","Alaska Sport",1979,16581,11183.76,13471.06
+27,"Alaska Sport","Alaska Sport",1980,20213,14688.03,17456.14
+27,"Alaska Sport","Alaska Sport",1981,21300,14632.74,17590.29
+27,"Alaska Sport","Alaska Sport",1982,25756,14746.78,17799.75
+27,"Alaska Sport","Alaska Sport",1983,22321,11481.85,13900.48
+27,"Alaska Sport","Alaska Sport",1984,22050,6742.46,8106.5
+27,"Alaska Sport","Alaska Sport",1985,23032,13198.23,15991.63
+27,"Alaska Sport","Alaska Sport",1986,19049,10915.8,13280.44
+27,"Alaska Sport","Alaska Sport",1987,20294,11629.29,14113.92
+27,"Alaska Sport","Alaska Sport",1988,22251,12750.73,14995.15
+27,"Alaska Sport","Alaska Sport",1989,26791,15352.32,18281.19
+27,"Alaska Sport","Alaska Sport",1990,41360,23700.86,28087.45
+27,"Alaska Sport","Alaska Sport",1991,45144,25869.29,30794.13
+27,"Alaska Sport","Alaska Sport",1992,35346,20254.66,24177.53
+27,"Alaska Sport","Alaska Sport",1993,42677,24455.58,28733.12
+27,"Alaska Sport","Alaska Sport",1994,35467,20323.96,23725.9
+27,"Alaska Sport","Alaska Sport",1995,35496,20340.64,24518.07
+27,"Alaska Sport","Alaska Sport",1996,38975,22334.22,26500.98
+27,"Alaska Sport","Alaska Sport",1997,53305,30545.89,36172.9
+27,"Alaska Sport","Alaska Sport",1998,46303,26533.43,31274.16
+27,"Alaska Sport","Alaska Sport",1999,53158,30461.6,36131.04
+27,"Alaska Sport","Alaska Sport",2000,41439,23746.15,28959.12
+27,"Alaska Sport","Alaska Sport",2001,44725,25629.16,31233.02
+27,"Alaska Sport","Alaska Sport",2002,45504,26075.53,31375.5
+27,"Alaska Sport","Alaska Sport",2003,49239,28215.88,33043.78
+27,"Alaska Sport","Alaska Sport",2004,55413,31753.82,37523.32
+27,"Alaska Sport","Alaska Sport",2005,63330,36290.54,42544.08
+27,"Alaska Sport","Alaska Sport",2006,69375,39754.62,46562.29
+27,"Alaska Sport","Alaska Sport",2007,62297,35698.61,42187
+27,"Alaska Sport","Alaska Sport",2008,32605,18683.95,22595.76
+27,"Alaska Sport","Alaska Sport",2009,48123,27576.39,33311.4
+27,"Alaska Sport","Alaska Sport",2010,44317,25395.4,30736.6
+27,"Alaska Sport","Alaska Sport",2011,53961,30921.78,36531.51
+27,"Alaska Sport","Alaska Sport",2012,37719,21614.39,26462.67
+27,"Alaska Sport","Alaska Sport",2013,43306,24816,30170.8
+27,"Alaska Sport","Alaska Sport",2014,73951,42376.82,49861
+27,"Alaska Sport","Alaska Sport",2015,65174,37347.27,44101.67
+27,"Alaska Sport","Alaska Sport",2016,62490,35809.22,41551.8
+28,"Central B.C. Sport","Central B.C. Sport",1979,12779,8718.1,10020.13
+28,"Central B.C. Sport","Central B.C. Sport",1980,15602,6981.67,8516.88
+28,"Central B.C. Sport","Central B.C. Sport",1981,8481,8049.57,11004.4
+28,"Central B.C. Sport","Central B.C. Sport",1982,13299,18390.48,20062.91
+28,"Central B.C. Sport","Central B.C. Sport",1983,8171,4281.11,4891.82
+28,"Central B.C. Sport","Central B.C. Sport",1984,8054,2788.71,3434.27
+28,"Central B.C. Sport","Central B.C. Sport",1985,5667,4200.76,4793.91
+28,"Central B.C. Sport","Central B.C. Sport",1986,7516,5571.36,6688.52
+28,"Central B.C. Sport","Central B.C. Sport",1987,7033,5213.31,5859.11
+28,"Central B.C. Sport","Central B.C. Sport",1988,7948,5891.58,7254.36
+28,"Central B.C. Sport","Central B.C. Sport",1989,10848,8041.26,9120.12
+28,"Central B.C. Sport","Central B.C. Sport",1990,10840,8035.33,9475.77
+28,"Central B.C. Sport","Central B.C. Sport",1991,13720,10170.15,11947.79
+28,"Central B.C. Sport","Central B.C. Sport",1992,20361,15092.88,17423.23
+28,"Central B.C. Sport","Central B.C. Sport",1993,18793,13930.58,14997.8
+28,"Central B.C. Sport","Central B.C. Sport",1994,9736,7216.95,8102.16
+28,"Central B.C. Sport","Central B.C. Sport",1995,6468,4794.49,5803.01
+28,"Central B.C. Sport","Central B.C. Sport",1996,5993,4442.38,5407.53
+28,"Central B.C. Sport","Central B.C. Sport",1997,12571,9318.44,10485.44
+28,"Central B.C. Sport","Central B.C. Sport",1998,8224,6096.14,6840.98
+28,"Central B.C. Sport","Central B.C. Sport",1999,19285,14295.31,16580.56
+28,"Central B.C. Sport","Central B.C. Sport",2000,13360,9903.29,12243.95
+28,"Central B.C. Sport","Central B.C. Sport",2001,11800,8746.93,10759.39
+28,"Central B.C. Sport","Central B.C. Sport",2002,11026,8173.19,9149.6
+28,"Central B.C. Sport","Central B.C. Sport",2003,18236,13517.69,15456.75
+28,"Central B.C. Sport","Central B.C. Sport",2004,26808,19871.86,22257.35
+28,"Central B.C. Sport","Central B.C. Sport",2005,25093,18600.56,21258.53
+28,"Central B.C. Sport","Central B.C. Sport",2006,19932,14774.91,16269.18
+28,"Central B.C. Sport","Central B.C. Sport",2007,16012,11869.14,14100.84
+28,"Central B.C. Sport","Central B.C. Sport",2008,7345,5444.6,6217.47
+28,"Central B.C. Sport","Central B.C. Sport",2009,14740,10926.26,13533.4
+28,"Central B.C. Sport","Central B.C. Sport",2010,14059,10421.46,11587.42
+28,"Central B.C. Sport","Central B.C. Sport",2011,19635,14554.76,17080.27
+28,"Central B.C. Sport","Central B.C. Sport",2012,13735,10181.28,12668.41
+28,"Central B.C. Sport","Central B.C. Sport",2013,12717,9426.68,10697.36
+28,"Central B.C. Sport","Central B.C. Sport",2014,17139,12704.54,14488.19
+28,"Central B.C. Sport","Central B.C. Sport",2015,22528,16699.22,18371.02
+28,"Central B.C. Sport","Central B.C. Sport",2016,14503,10750.55,11983.36
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1979,100,101.58,116.45
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1980,200,99.65,118.5
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1981,184,99.65,130.18
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1982,215,139.39,153.98
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1983,90,224.66,258.41
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1984,171,223.97,270.65
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1985,600,555.53,644.22
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1986,1153,1067.53,1293.37
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1987,2644,2448.07,2743.85
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1988,7059,6535.95,7702.99
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1989,20652,19121.75,21677.18
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1990,16827,15580.19,18348.19
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1991,15047,13932.11,16207.42
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1992,21358,19775.41,22674.92
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1993,25297,23422.62,25716.41
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1994,28973,26826.19,31262.92
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1995,22531,20861.54,25623.21
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1996,670,620.41,874.31
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1997,27738,25682.73,33505.05
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1998,34130,31601.1,40508.61
+29,"North B.C. AABM Sport","North B.C. AABM Sport",1999,30227,27987.27,35076.41
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2000,22100,20462.44,28355.03
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2001,30400,28147.51,38677.68
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2002,47100,43610.07,55365.24
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2003,54300,50276.54,62688.76
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2004,74000,68516.84,93497.34
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2005,68800,63702.17,79881.01
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2006,64500,59720.78,70507.66
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2007,61000,56480.12,71773.04
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2008,43500,40276.84,47718.94
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2009,34000,31480.71,41293.31
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2010,46400,42961.89,53289.52
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2011,48000,44443.36,58700.53
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2012,40050,37082.43,48419.92
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2013,46650,43193.37,56512.16
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2014,44900,41573.09,57160.2
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2015,52200,48332.15,65731.77
+29,"North B.C. AABM Sport","North B.C. AABM Sport",2016,42800,39628.67,51721.95
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1979,2523,1214.05,1381.49
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1980,3867,1149.95,1362.83
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1981,2760,1287.27,1511.74
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1982,3760,1059.72,1246.63
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1983,4092,1269.35,1472.31
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1984,2300,1561.17,1844.04
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1985,3600,1854.34,2161.13
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1986,3950,2345.99,2833.19
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1987,4150,3097.56,3472.86
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1988,4300,2323.96,2703.98
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1989,4150,2338.94,2680.67
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1990,4300,1842.63,2133.14
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1991,4256,1655.75,1924.47
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1992,6250,1547.52,1769.05
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1993,3279,1536.94,1669.45
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1994,3171,1891.07,2128.87
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1995,2475,1242.53,1599.44
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1996,3382,1935,2787.69
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1997,0,1818.98,2375.65
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1998,4750,1495.72,1904.23
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",1999,11700,1683.09,2075.91
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2000,8600,1407.04,1983.01
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2001,11000,1843.1,2494.35
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2002,8000,1599.55,2010.09
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2003,8000,1384.21,1783.55
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2004,8000,1547.74,2134.58
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2005,8000,1047.17,1341.86
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2006,8000,1253.75,1483.17
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2007,8000,1055.38,1346.11
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2008,11970,846.43,1002.5
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2009,9177,951.51,1235.49
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2010,7570,1105.24,1359.61
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2011,14677,784.81,1045.58
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2012,7017,724.58,970.34
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2013,10259,799.17,1030.25
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2014,11973,1031.8,1311.7
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2015,12760,1078.99,1425.39
+30,"North B.C. ISBM Sport","North B.C. ISBM Sport",2016,12760,878.46,1073.42
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1979,4100,30523.67,34757.54
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1980,6100,24827.72,28829.56
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1981,8800,25817.68,31078.44
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1982,10000,52760.94,58778.37
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1983,28000,29106.09,33150.31
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1984,21200,19129.59,22333.8
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1985,23100,53811.13,61595.11
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1986,17100,39834.23,46626.38
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1987,34800,81066.13,91072.94
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1988,12800,29817.41,34448.79
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1989,38800,90384.03,102214.06
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1990,35000,81532.01,93999.02
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1991,39500,92014.68,105576.04
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1992,18518,43137.38,49175.38
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1993,23312,54304.98,60331.87
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1994,10313,24024.01,27468.7
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1995,13956,32510.32,37199.44
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1996,10229,23828.3,27496.05
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1997,6400,14908.67,16793.94
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1998,4177,9730.24,11016.98
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",1999,31106,72460.95,83972.12
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2000,24070,56070.74,67926.68
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2001,40636,94661.05,117268.35
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2002,31503,73385.77,88200.5
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2003,26825,62488.46,79993.08
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2004,39086,91050.26,108981
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2005,50681,118060.63,140330.43
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2006,36507,85042.52,99646.47
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2007,46323,107908.75,127264.84
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2008,50556,117769.48,140422.73
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2009,66426,154738.43,189675.04
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2010,54924,127944.72,159976.79
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2011,75209,175198.27,211703.08
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2012,65414,152380.97,193405.68
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2013,64072,149254.76,184267.85
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2014,54875,127830.51,161933.27
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2015,48215,112316.09,135979.87
+31,"West Coast Vancouver Island AABM Sport","West Coast Vancouver Island AABM Sport",2016,38819,90428.29,108185.1
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1979,7964,23051.57,26236.09
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1980,8539,26673.23,31069.92
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1981,11230,33185.54,40130.79
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1982,17100,46520.12,51635.6
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1983,28000,46326.21,52691.07
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1984,44162,36101.37,42294.59
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1985,21587,39090.37,44678.9
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1986,13158,23826.9,27934.55
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1987,38283,69323.97,77911.59
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1988,35820,64863.91,75208.52
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1989,55239,100028.38,113024.31
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1990,69723,126256.48,145397.5
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1991,85983,155700.55,179057.5
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1992,46968,85051.05,97044.58
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1993,65604,118797.6,131712.15
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1994,52526,95115.6,108473.35
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1995,21675,39249.73,45052.75
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1996,2266,4103.31,4729.17
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1997,47355,85751.84,96937.52
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1998,55697,100857.77,113573.95
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",1999,47163,85404.16,98740.57
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2000,5443,9856.33,12004.94
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2001,6354,11505.98,14274.48
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2002,36073,65322.06,78492.78
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2003,51186,92689.09,120418.39
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2004,61218,110855.31,133169.24
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2005,43577,78910.53,94760.11
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2006,44025,79721.78,94045.91
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2007,39368,71288.72,84214.13
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2008,24855,45008.17,53650.12
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2009,31921,57803.48,70773.6
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2010,24687,44703.96,55820.49
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2011,52131,94400.33,114062.79
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2012,25890,46882.4,59525.59
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2013,22272,40330.77,49785.3
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2014,28679,51932.76,63433.45
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2015,34668,62777.87,74761.43
+32,"West Coast Vancouver Island ISBM Sport","West Coast Vancouver Island ISBM Sport",2016,26237,47510.73,55908.24
+33,"North of Falcon Sport","North of Falcon Sport",1979,84977,94810.2,108577.37
+33,"North of Falcon Sport","North of Falcon Sport",1980,59099,81897.08,94944.84
+33,"North of Falcon Sport","North of Falcon Sport",1981,96151,79364.07,95423.86
+33,"North of Falcon Sport","North of Falcon Sport",1982,114952,95769.25,107472.27
+33,"North of Falcon Sport","North of Falcon Sport",1983,51789,41219.6,47156.31
+33,"North of Falcon Sport","North of Falcon Sport",1984,6980,10722.03,12559.65
+33,"North of Falcon Sport","North of Falcon Sport",1985,30189,29447.59,33951.18
+33,"North of Falcon Sport","North of Falcon Sport",1986,23000,22435.2,26199.74
+33,"North of Falcon Sport","North of Falcon Sport",1987,44000,42919.46,48468.86
+33,"North of Falcon Sport","North of Falcon Sport",1988,19000,18533.36,21346.55
+33,"North of Falcon Sport","North of Falcon Sport",1989,20900,20386.79,23029.48
+33,"North of Falcon Sport","North of Falcon Sport",1990,32900,32092.02,37139.41
+33,"North of Falcon Sport","North of Falcon Sport",1991,13562,13228.87,15244.19
+33,"North of Falcon Sport","North of Falcon Sport",1992,18935,18470.01,21141.73
+33,"North of Falcon Sport","North of Falcon Sport",1993,13854,13513.77,15186.56
+33,"North of Falcon Sport","North of Falcon Sport",1994,0,0,0
+33,"North of Falcon Sport","North of Falcon Sport",1995,618,602.84,654.37
+33,"North of Falcon Sport","North of Falcon Sport",1996,255,248.73,270.06
+33,"North of Falcon Sport","North of Falcon Sport",1997,4152,4050.01,4608.03
+33,"North of Falcon Sport","North of Falcon Sport",1998,2292,2235.73,2552.96
+33,"North of Falcon Sport","North of Falcon Sport",1999,10821,10555.23,12165.56
+33,"North of Falcon Sport","North of Falcon Sport",2000,9242,9015.05,10540.99
+33,"North of Falcon Sport","North of Falcon Sport",2001,25592,24963.53,29187.54
+33,"North of Falcon Sport","North of Falcon Sport",2002,60575,59087.36,69455.6
+33,"North of Falcon Sport","North of Falcon Sport",2003,36513,35616.32,39944.88
+33,"North of Falcon Sport","North of Falcon Sport",2004,27090,26424.7,29690.79
+33,"North of Falcon Sport","North of Falcon Sport",2005,40004,39021.59,43726.44
+33,"North of Falcon Sport","North of Falcon Sport",2006,11176,10901.5,12192.47
+33,"North of Falcon Sport","North of Falcon Sport",2007,9538,9303.75,10771.02
+33,"North of Falcon Sport","North of Falcon Sport",2008,15452,15072.55,17235.41
+33,"North of Falcon Sport","North of Falcon Sport",2009,13331,13003.6,15248.41
+33,"North of Falcon Sport","North of Falcon Sport",2010,38686,37735.93,42799.9
+33,"North of Falcon Sport","North of Falcon Sport",2011,30826,30068.99,34685.15
+33,"North of Falcon Sport","North of Falcon Sport",2012,35428,34557.98,40449.51
+33,"North of Falcon Sport","North of Falcon Sport",2013,30837,30079.71,34380.78
+33,"North of Falcon Sport","North of Falcon Sport",2014,42327,41287.54,48643.42
+33,"North of Falcon Sport","North of Falcon Sport",2015,42179,41143.13,47032.41
+33,"North of Falcon Sport","North of Falcon Sport",2016,17948,17507.23,20347.44
+34,"South of Falcon Sport","South of Falcon Sport",1979,6949,3106.15,3549.03
+34,"South of Falcon Sport","South of Falcon Sport",1980,8710,2465.24,2814.11
+34,"South of Falcon Sport","South of Falcon Sport",1981,8762,2428.2,2803.48
+34,"South of Falcon Sport","South of Falcon Sport",1982,14943,2588.04,3006.29
+34,"South of Falcon Sport","South of Falcon Sport",1983,8883,1165.61,1344.64
+34,"South of Falcon Sport","South of Falcon Sport",1984,7886,448.72,519.75
+34,"South of Falcon Sport","South of Falcon Sport",1985,16158,3512.35,4107.69
+34,"South of Falcon Sport","South of Falcon Sport",1986,8584,1865.92,2174.64
+34,"South of Falcon Sport","South of Falcon Sport",1987,28728,6244.72,7048.5
+34,"South of Falcon Sport","South of Falcon Sport",1988,16127,3505.6,3968.08
+34,"South of Falcon Sport","South of Falcon Sport",1989,9384,2039.86,2300.35
+34,"South of Falcon Sport","South of Falcon Sport",1990,10496,2281.58,2623.99
+34,"South of Falcon Sport","South of Falcon Sport",1991,6622,1439.44,1656.29
+34,"South of Falcon Sport","South of Falcon Sport",1992,9403,2043.96,2345.03
+34,"South of Falcon Sport","South of Falcon Sport",1993,1817,394.97,448.74
+34,"South of Falcon Sport","South of Falcon Sport",1994,2421,526.26,572.92
+34,"South of Falcon Sport","South of Falcon Sport",1995,886,192.6,208.92
+34,"South of Falcon Sport","South of Falcon Sport",1996,2985,648.87,703.53
+34,"South of Falcon Sport","South of Falcon Sport",1997,2408,523.42,597.85
+34,"South of Falcon Sport","South of Falcon Sport",1998,2019,438.88,500.78
+34,"South of Falcon Sport","South of Falcon Sport",1999,3340,726.03,857.95
+34,"South of Falcon Sport","South of Falcon Sport",2000,12878,2799.37,3225.45
+34,"South of Falcon Sport","South of Falcon Sport",2001,17374,3776.68,4366.33
+34,"South of Falcon Sport","South of Falcon Sport",2002,34792,7562.92,9126.29
+34,"South of Falcon Sport","South of Falcon Sport",2003,32876,7146.44,8026.08
+34,"South of Falcon Sport","South of Falcon Sport",2004,47413,10306.39,11664.75
+34,"South of Falcon Sport","South of Falcon Sport",2005,18603,4043.82,4565.91
+34,"South of Falcon Sport","South of Falcon Sport",2006,9287,2018.76,2277.5
+34,"South of Falcon Sport","South of Falcon Sport",2007,3297,716.67,801.67
+34,"South of Falcon Sport","South of Falcon Sport",2008,481,104.58,116.43
+34,"South of Falcon Sport","South of Falcon Sport",2009,410,89.11,103.34
+34,"South of Falcon Sport","South of Falcon Sport",2010,2331,506.68,577.74
+34,"South of Falcon Sport","South of Falcon Sport",2011,2609,567.12,656.54
+34,"South of Falcon Sport","South of Falcon Sport",2012,7767,1688.35,1982.33
+34,"South of Falcon Sport","South of Falcon Sport",2013,17867,3883.84,4419.67
+34,"South of Falcon Sport","South of Falcon Sport",2014,9355,2033.58,2410.08
+34,"South of Falcon Sport","South of Falcon Sport",2015,5501,1195.8,1368.9
+34,"South of Falcon Sport","South of Falcon Sport",2016,2552,554.72,645.44
+35,"Puget Sound North Sport","Puget Sound North Sport",1979,84461,65684.41,86089.62
+35,"Puget Sound North Sport","Puget Sound North Sport",1980,68646,60756.86,83598.37
+35,"Puget Sound North Sport","Puget Sound North Sport",1981,61079,62441.54,95408.95
+35,"Puget Sound North Sport","Puget Sound North Sport",1982,36795,85502.22,106558.28
+35,"Puget Sound North Sport","Puget Sound North Sport",1983,73226,160723.5,224567.67
+35,"Puget Sound North Sport","Puget Sound North Sport",1984,73762,51435.1,81535.44
+35,"Puget Sound North Sport","Puget Sound North Sport",1985,53719,65675.09,94283.67
+35,"Puget Sound North Sport","Puget Sound North Sport",1986,82481,100838.54,161036.19
+35,"Puget Sound North Sport","Puget Sound North Sport",1987,62924,76928.8,102806.76
+35,"Puget Sound North Sport","Puget Sound North Sport",1988,50831,62144.32,92516.58
+35,"Puget Sound North Sport","Puget Sound North Sport",1989,63713,77893.35,106238.88
+35,"Puget Sound North Sport","Puget Sound North Sport",1990,57877,70758.52,104309.43
+35,"Puget Sound North Sport","Puget Sound North Sport",1991,44400,54281.97,78585.71
+35,"Puget Sound North Sport","Puget Sound North Sport",1992,44726,54680.56,76705.62
+35,"Puget Sound North Sport","Puget Sound North Sport",1993,39132,47841.48,61774.86
+35,"Puget Sound North Sport","Puget Sound North Sport",1994,7456,9115.43,12917.84
+35,"Puget Sound North Sport","Puget Sound North Sport",1995,14212,17375.14,30176.61
+35,"Puget Sound North Sport","Puget Sound North Sport",1996,17499,21393.7,37048.41
+35,"Puget Sound North Sport","Puget Sound North Sport",1997,21393,26154.35,38890.87
+35,"Puget Sound North Sport","Puget Sound North Sport",1998,5228,6391.63,11190.4
+35,"Puget Sound North Sport","Puget Sound North Sport",1999,4125,5043.11,11713.32
+35,"Puget Sound North Sport","Puget Sound North Sport",2000,4780,5843.87,12969.68
+35,"Puget Sound North Sport","Puget Sound North Sport",2001,10944,13379.73,42699.73
+35,"Puget Sound North Sport","Puget Sound North Sport",2002,8412,10284.24,31544.58
+35,"Puget Sound North Sport","Puget Sound North Sport",2003,8322,10174.2,14261.22
+35,"Puget Sound North Sport","Puget Sound North Sport",2004,7118,8702.22,13071.66
+35,"Puget Sound North Sport","Puget Sound North Sport",2005,4828,5902.56,9161.18
+35,"Puget Sound North Sport","Puget Sound North Sport",2006,8015,9798.86,14037.46
+35,"Puget Sound North Sport","Puget Sound North Sport",2007,11139,13618.19,20376.14
+35,"Puget Sound North Sport","Puget Sound North Sport",2008,10673,13048.45,18140.69
+35,"Puget Sound North Sport","Puget Sound North Sport",2009,14366,17563.36,31180.03
+35,"Puget Sound North Sport","Puget Sound North Sport",2010,12685,15508.2,22684.59
+35,"Puget Sound North Sport","Puget Sound North Sport",2011,15957,19508.47,31269.46
+35,"Puget Sound North Sport","Puget Sound North Sport",2012,19618,23984.35,45832.52
+35,"Puget Sound North Sport","Puget Sound North Sport",2013,25210,30820.92,46742.25
+35,"Puget Sound North Sport","Puget Sound North Sport",2014,20275,24787.56,47879.66
+35,"Puget Sound North Sport","Puget Sound North Sport",2015,20403,24944.05,38234.24
+35,"Puget Sound North Sport","Puget Sound North Sport",2016,21693,26521.15,46025.83
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1979,184197,104333.16,137040.17
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1980,168695,97110.81,135976.24
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1981,103354,154243.22,241927.42
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1982,83362,166663.82,205755.72
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1983,121241,63784.74,89692.25
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1984,100055,43598.16,73472.8
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1985,74323,61510.67,88722.76
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1986,70945,58715,92655.34
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1987,46450,38442.61,52063.84
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1988,64469,53355.33,84309.29
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1989,71983,59574.01,81758.54
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1990,67627,55968.99,84043.7
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1991,46166,38207.58,55864.22
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1992,53007,43869.28,61661.13
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1993,41034,33960.27,43143.29
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1994,40830,33791.41,47264.77
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1995,55587,46004.49,71168.15
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1996,54570,45162.84,70461.55
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1997,39032,32303.4,46800.46
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1998,20886,17285.49,26035.48
+36,"Puget Sound Other Sport","Puget Sound Other Sport",1999,24614,20370.86,33352.11
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2000,18899,15641.06,31216.35
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2001,33478,27706.83,59043.51
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2002,22331,18481.41,28352.09
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2003,22578,18685.84,30972.44
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2004,19609,16228.67,24630.83
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2005,18064,14949.97,24930.86
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2006,20567,17021.54,25549.43
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2007,37587,31107.48,53630.53
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2008,21749,17999.73,27419.64
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2009,16939,14018.92,28550.78
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2010,15621,12928.18,18563.68
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2011,11550,9558.95,15835.96
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2012,22036,18237.29,34734.01
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2013,16635,13767.35,21117.23
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2014,12083,10000.08,16320.19
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2015,8958,7413.71,10649.77
+36,"Puget Sound Other Sport","Puget Sound Other Sport",2016,12559,10393.98,16945.26
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1979,2033,901.3,918.31
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1980,2977,554.32,566.67
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1981,2076,390.57,402.91
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1982,2922,357.06,385.11
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1983,1921,447.19,481.29
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1984,1320,412.7,444.92
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1985,1833,344.99,372.9
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1986,2641,496.01,534.72
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1987,2955,605.9,651.79
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1988,3787,467.39,527.8
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1989,4250,349.91,401.88
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1990,4216,431.87,487
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1991,3284,439.29,498.75
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1992,4501,371.76,427.65
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1993,4701,465.56,543.22
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1994,4787,527.07,617.31
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1995,3753,886.9,994.65
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1996,6430,903.75,1004.08
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1997,7640,607.51,679.51
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1998,3626,446.14,507.45
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",1999,5575,416.15,472.06
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2000,7288,463.04,517.34
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2001,6380,398.99,444.7
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2002,6452,276.03,316.74
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2003,6545,245.94,281.83
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2004,8001,358.38,396.17
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2005,27765,275.63,305.19
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2006,24110,130.72,147.58
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2007,13052,127.7,145.72
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2008,10350,115.13,139.74
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2009,9352,172.5,203.57
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2010,8665,361.46,403.1
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2011,6447,336.95,374.62
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2012,8180,200.76,227.29
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2013,4109,182.18,208.66
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2014,5807,194.58,225.37
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2015,6705,236.58,272.12
+37,"Canadian Transboundary River Freshwater Net","Canadian Transboundary River Freshwater Net",2016,6705,308.19,348.47
+38,"Georgia Strait Sport","Georgia Strait Sport",1979,350000,608948.67,663261.73
+38,"Georgia Strait Sport","Georgia Strait Sport",1980,204100,545747.3,596956.62
+38,"Georgia Strait Sport","Georgia Strait Sport",1981,197239,818661.15,901031.75
+38,"Georgia Strait Sport","Georgia Strait Sport",1982,124390,1033550.75,1112068.56
+38,"Georgia Strait Sport","Georgia Strait Sport",1983,198433,359523.05,387899.82
+38,"Georgia Strait Sport","Georgia Strait Sport",1984,369445,582931.9,630631.45
+38,"Georgia Strait Sport","Georgia Strait Sport",1985,234838,642460.56,693515.47
+38,"Georgia Strait Sport","Georgia Strait Sport",1986,181896,497623.83,538454.69
+38,"Georgia Strait Sport","Georgia Strait Sport",1987,121081,331248.59,356864.21
+38,"Georgia Strait Sport","Georgia Strait Sport",1988,119117,325875.58,414532.38
+38,"Georgia Strait Sport","Georgia Strait Sport",1989,132846,363434.79,465536.79
+38,"Georgia Strait Sport","Georgia Strait Sport",1990,111914,306169.96,390427.47
+38,"Georgia Strait Sport","Georgia Strait Sport",1991,115523,316043.18,409961.3
+38,"Georgia Strait Sport","Georgia Strait Sport",1992,116581,318937.7,407554.65
+38,"Georgia Strait Sport","Georgia Strait Sport",1993,127576,349017.39,433034.28
+38,"Georgia Strait Sport","Georgia Strait Sport",1994,70839,193798.54,241284.38
+38,"Georgia Strait Sport","Georgia Strait Sport",1995,62173,170090.42,218954.07
+38,"Georgia Strait Sport","Georgia Strait Sport",1996,89589,245094.04,317922.29
+38,"Georgia Strait Sport","Georgia Strait Sport",1997,56332,154110.86,195940.06
+38,"Georgia Strait Sport","Georgia Strait Sport",1998,20923,57240.31,71354.36
+38,"Georgia Strait Sport","Georgia Strait Sport",1999,43588,119246.34,154944.06
+38,"Georgia Strait Sport","Georgia Strait Sport",2000,32750,89596.17,118303.77
+38,"Georgia Strait Sport","Georgia Strait Sport",2001,31259,85517.13,111485.63
+38,"Georgia Strait Sport","Georgia Strait Sport",2002,52979,144937.87,198058.77
+38,"Georgia Strait Sport","Georgia Strait Sport",2003,19981,54663.23,71490.23
+38,"Georgia Strait Sport","Georgia Strait Sport",2004,13475,36864.44,44905.54
+38,"Georgia Strait Sport","Georgia Strait Sport",2005,11972,32752.55,41651.39
+38,"Georgia Strait Sport","Georgia Strait Sport",2006,12181,33324.3,41064.77
+38,"Georgia Strait Sport","Georgia Strait Sport",2007,14561,39835.39,49349.17
+38,"Georgia Strait Sport","Georgia Strait Sport",2008,8836,24173.21,29515.92
+38,"Georgia Strait Sport","Georgia Strait Sport",2009,17884,48926.32,63049.5
+38,"Georgia Strait Sport","Georgia Strait Sport",2010,14942,40877.77,52866.93
+38,"Georgia Strait Sport","Georgia Strait Sport",2011,21651,59231.92,74811.5
+38,"Georgia Strait Sport","Georgia Strait Sport",2012,22457,61436.95,80813.45
+38,"Georgia Strait Sport","Georgia Strait Sport",2013,25036,68492.5,88768.81
+38,"Georgia Strait Sport","Georgia Strait Sport",2014,46251,126531.63,165989.07
+38,"Georgia Strait Sport","Georgia Strait Sport",2015,59460,162668.36,213631.03
+38,"Georgia Strait Sport","Georgia Strait Sport",2016,43498,119000.13,152284.77
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1979,37900,38207.32,41623.13
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1980,37900,36032.25,39439.68
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1981,29832,41433.97,45630.75
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1982,30646,45571.66,49348.98
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1983,30228,26120.82,28448.94
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1984,24353,44985.67,49279.08
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1985,27843,33896.1,36941.81
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1986,34387,41862.73,45815.62
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1987,24878,30286.49,32913.65
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1988,31233,38023.04,57903.21
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1989,32539,39613,60507.55
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1990,30127,36676.64,55004.65
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1991,19017,23151.31,35809.84
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1992,21090,25674.95,38672.44
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1993,13967,17003.43,24239.46
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1994,14372,17496.48,25053.2
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1995,14405,17536.66,26826.4
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1996,19012,23145.24,36114.32
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1997,17080,20793.22,31212.96
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1998,9709,11819.7,16929.31
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",1999,14808,18027.26,27833.5
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2000,10973,13358.5,21171.99
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2001,23463,28563.89,44144.06
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2002,24084,29319.85,49461.84
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2003,26630,32419.37,50720.89
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2004,40877,49763.7,68270.81
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2005,30480,37106.31,55312.1
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2006,26437,32184.4,45180.92
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2007,26549,32320.81,45626.93
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2008,22263,27102.95,37093.92
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2009,25587,31149.58,47281.92
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2010,15612,19006.01,29201.05
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2011,21075,25656.73,37890.64
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2012,22154,26970.33,42657.69
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2013,32363,39398.74,60644.14
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2014,20290,24701.07,38949.46
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2015,41292,50268.91,79300.57
+39,"B.C. Juan De Fuca Sport","B.C. Juan De Fuca Sport",2016,22965,27957.59,41940.72
+40,"Columbia River Sport","Columbia River Sport",1979,38700,26787.38,28708.49
+40,"Columbia River Sport","Columbia River Sport",1980,15011,32665.65,34976.77
+40,"Columbia River Sport","Columbia River Sport",1981,21151,35448.36,38050.42
+40,"Columbia River Sport","Columbia River Sport",1982,31236,30287.69,32462.46
+40,"Columbia River Sport","Columbia River Sport",1983,23206,34643.34,37125.6
+40,"Columbia River Sport","Columbia River Sport",1984,43760,48993.7,52608.14
+40,"Columbia River Sport","Columbia River Sport",1985,45444,59474.4,63951.82
+40,"Columbia River Sport","Columbia River Sport",1986,57993,80445.76,86546.16
+40,"Columbia River Sport","Columbia River Sport",1987,105835,101104.95,108212.23
+40,"Columbia River Sport","Columbia River Sport",1988,97638,65734.48,70399.64
+40,"Columbia River Sport","Columbia River Sport",1989,88088,74804.84,80111.15
+40,"Columbia River Sport","Columbia River Sport",1990,79467,53708.44,57548.31
+40,"Columbia River Sport","Columbia River Sport",1991,79260,62583.57,67084.81
+40,"Columbia River Sport","Columbia River Sport",1992,56417,56012.78,60023.09
+40,"Columbia River Sport","Columbia River Sport",1993,64995,52320.52,56050.9
+40,"Columbia River Sport","Columbia River Sport",1994,29634,23363.24,25022.04
+40,"Columbia River Sport","Columbia River Sport",1995,36394,46903.02,50315.27
+40,"Columbia River Sport","Columbia River Sport",1996,31672,22882.36,24487.47
+40,"Columbia River Sport","Columbia River Sport",1997,45984,20178.11,21601.4
+40,"Columbia River Sport","Columbia River Sport",1998,34342,20133.94,21597.89
+40,"Columbia River Sport","Columbia River Sport",1999,45094,24131.73,25838.01
+40,"Columbia River Sport","Columbia River Sport",2000,49631,21606.57,23175.53
+40,"Columbia River Sport","Columbia River Sport",2001,135040,46491.55,49879.6
+40,"Columbia River Sport","Columbia River Sport",2002,143135,67822.05,72607.92
+40,"Columbia River Sport","Columbia River Sport",2003,141114,74221.98,79451.72
+40,"Columbia River Sport","Columbia River Sport",2004,140790,80908.91,86646.22
+40,"Columbia River Sport","Columbia River Sport",2005,87170,51639.59,55281.29
+40,"Columbia River Sport","Columbia River Sport",2006,66780,63044.39,67520.2
+40,"Columbia River Sport","Columbia River Sport",2007,50947,42236.74,45462.71
+40,"Columbia River Sport","Columbia River Sport",2008,83095,50742.35,54455.3
+40,"Columbia River Sport","Columbia River Sport",2009,86056,45936.37,49463.6
+40,"Columbia River Sport","Columbia River Sport",2010,159308,67818.64,72714.36
+40,"Columbia River Sport","Columbia River Sport",2011,145092,100668.16,108000.46
+40,"Columbia River Sport","Columbia River Sport",2012,145108,150089.59,161437.1
+40,"Columbia River Sport","Columbia River Sport",2013,154641,128085.22,137322.77
+40,"Columbia River Sport","Columbia River Sport",2014,177803,103167.37,110575.03
+40,"Columbia River Sport","Columbia River Sport",2015,204687,108133.03,115766.9
+40,"Columbia River Sport","Columbia River Sport",2016,204687,85366.01,91557.23
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1979,100,2302.75,2470.13
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1980,100,3870.39,4142.46
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1981,100,4237.98,4542.69
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1982,100,2574.92,2765.64
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1983,0,1203.25,1290.66
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1984,0,1638.52,1762.9
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1985,0,2561.23,2755.98
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1986,0,2888.7,3106.77
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1987,0,3423.99,3664.1
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1988,0,3212.13,3441.45
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1989,0,3413.34,3655.69
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1990,0,3732.16,3996.85
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1991,0,3531.32,3785.62
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1992,0,5206.2,5576.03
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1993,0,5409.54,5789.08
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1994,0,3862.15,4140.26
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1995,0,2645.98,2838.48
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1996,5357,5665.73,6060.88
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1997,6361,6250.15,6689.19
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1998,1616,2674.29,2865.1
+41,"Alaska Terminal Sport","Alaska Terminal Sport",1999,1345,1802.53,1931.13
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2000,1600,2819.84,3019.76
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2001,897,5139.52,5507.87
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2002,727,4967.59,5318.78
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2003,490,3735.53,3998.23
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2004,577,4895.95,5239.95
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2005,957,5423.35,5802.99
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2006,623,3275.59,3508.69
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2007,0,1612.58,1733.59
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2008,0,1819.79,1954.33
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2009,0,1898.96,2036.71
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2010,121,2096.79,2248.37
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2011,0,2300.82,2466.9
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2012,0,2362.67,2545.56
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2013,0,2132.74,2285.14
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2014,0,2155.6,2308.57
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2015,0,2847.19,3048.06
+41,"Alaska Terminal Sport","Alaska Terminal Sport",2016,0,2631.91,2816.76
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1979,1960,1301.23,1391.41
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1980,4515,1442.07,1541.92
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1981,2613,1450.76,1551.33
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1982,2726,1302.94,1394.32
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1983,5374,1675.8,1796.77
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1984,3426,1704.69,1823.9
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1985,3186,2664.23,2850.26
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1986,4410,3206.71,3430.71
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1987,3625,4813.14,5148.28
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1988,3745,4080.93,4366.54
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1989,5247,3906.46,4177.76
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1990,4090,3164.33,3386.02
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1991,4764,2882.05,3085.35
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1992,6182,3172.9,3393.34
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1993,7813,2212.57,2366.67
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1994,3093,4063.13,4344.01
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1995,3503,1654.93,1770.54
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1996,1250,3672.52,3927.47
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1997,0,3579.1,3828.76
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1998,0,2657.14,2840.6
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",1999,0,3200.09,3421
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2000,0,2317.13,2477.56
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2001,0,3972.93,4248.54
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2002,0,3244.61,3469
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2003,5711,2234.34,2388.5
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2004,0,2620.86,2801.86
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2005,0,1337.82,1430.2
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2006,0,1887.56,2018.05
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2007,0,2132.33,2279.62
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2008,0,1449.72,1551.62
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2009,0,1791.33,1915.08
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2010,2689,2108.97,2254.64
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2011,2540,1165.04,1248.56
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2012,421,873.41,934
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2013,2024,1021.17,1092.45
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2014,2302,1287.9,1377.38
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2015,3442,1524.79,1630.36
+42,"North B.C. Freshwater Sport","North B.C. Freshwater Sport",2016,3442,1153.45,1233.41
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1979,1940,130.66,139.69
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1980,988,145.56,155.61
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1981,1261,812.11,870.69
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1982,1293,197.02,210.62
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1983,821,185.68,198.49
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1984,1332,202.34,216.3
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1985,823,296.26,316.69
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1986,1245,344.53,368.3
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1987,1563,306.48,327.64
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1988,1496,263.76,281.96
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1989,4526,258.33,276.16
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1990,5626,284.89,304.57
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1991,3335,409.5,437.78
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1992,3204,548.08,585.95
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1993,2880,488.86,522.6
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1994,973,367.7,393.08
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1995,1180,247.18,264.24
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1996,3986,179.65,192.04
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1997,1139,201.51,215.41
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1998,779,219.62,234.78
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",1999,0,293.17,313.42
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2000,0,285.06,304.74
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2001,1024,356.83,381.46
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2002,723,294.78,315.12
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2003,491,186.18,199.02
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2004,524,235.96,252.24
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2005,809,230.9,246.83
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2006,0,304.69,325.7
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2007,522,197.06,210.66
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2008,276,215.3,230.16
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2009,0,254.62,272.2
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2010,0,188.38,201.37
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2011,646,143.1,152.98
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2012,524,324.9,347.44
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2013,1506,364.1,389.24
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2014,2134,300.99,321.77
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2015,1270,313.92,335.59
+43,"Central B.C. Freshwater Sport","Central B.C. Freshwater Sport",2016,1270,234.79,250.98
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1979,0,1590.37,1705.85
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1980,0,1595.2,1710.88
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1981,0,1740.01,1870.09
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1982,0,3444.1,3686.44
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1983,0,2449.05,2623.75
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1984,0,3568.21,3840.43
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1985,0,2653.73,2847.97
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1986,0,1226.82,1316.41
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1987,0,1265.39,1357.03
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1988,0,2219.76,2395.69
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1989,0,3965.42,4260
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1990,0,3260.8,3505.03
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1991,0,4599.48,4943.15
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1992,0,4392.21,4709.55
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1993,0,3864.73,4133.87
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1994,0,1266.8,1354.94
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1995,0,776.67,831.88
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1996,0,2039.82,2197.82
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1997,0,2266.86,2425.03
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1998,0,1587.43,1698.26
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",1999,0,2086.48,2238.61
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2000,0,701.42,753.88
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2001,6198,4543.97,4949.09
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2002,77,2620.04,2814.92
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2003,0,2158.49,2311.77
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2004,26,2175.6,2326.98
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2005,6225,1471.34,1577.01
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2006,0,1893.26,2025.91
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2007,0,1394.49,1499.12
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2008,0,1480.34,1585.16
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2009,0,1071.13,1156.07
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2010,0,3229.46,3456.68
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2011,0,1442.18,1543.58
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2012,0,1356.56,1456.59
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2013,0,2044.5,2197.78
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2014,0,2144.59,2299.86
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2015,0,1615.15,1728.8
+44,"West Coast Vancouver Island Freshwater Sport","West Coast Vancouver Island Freshwater Sport",2016,0,1646.94,1763.13
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1979,4450,5659.07,6056.6
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1980,7,6032.12,6459.13
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1981,0,7432.1,7986.24
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1982,96,6748.23,7219.69
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1983,0,642.19,689.43
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1984,80,3738.15,4004.38
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1985,596,23856.8,25615.65
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1986,1421,34082.65,36551.87
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1987,3561,65655.09,70298.55
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1988,3702,84365.99,90819.86
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1989,2500,38696.87,41469.08
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1990,2982,30165.41,32440.21
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1991,3116,20990.73,22572.22
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1992,4677,30552.58,32765.25
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1993,3430,20802.77,22254.44
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1994,3195,27120.23,29017.41
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1995,8258,113909.88,122000.7
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1996,7635,70294.83,75515.66
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1997,5051,42849.82,45829.37
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1998,18073,129904.74,139061.65
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",1999,8509,22926.19,24557.26
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2000,12836,478915.15,513478.93
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2001,25023,552494.59,595037.86
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2002,24355,102873.52,110398.53
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2003,19520,3437137.68,3675959.91
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2004,18581,6303104.64,6738720.55
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2005,22688,4259112.95,4555565.32
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2006,26662,4333028.4,4632939.65
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2007,12945,2539383.24,2717021.92
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2008,18596.586,1481151.99,1583919.1
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2009,17485,358429.88,384558.65
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2010,14324,53104.1,56838.25
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2011,20349,112752.5,120793.9
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2012,11396,132667.4,142260.9
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2013,11506,49725.78,53444.19
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2014,13105,93541.33,100201.33
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2015,18487,113994.18,122015.43
+45,"Fraser River Freshwater Sport","Fraser River Freshwater Sport",2016,18487,530934.35,567685.36
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1979,-999,7.28,7.86
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1980,-999,7.23,7.82
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1981,-999,13.77,14.96
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1982,-999,4.71,5.07
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1983,-999,46.75,50.99
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1984,-999,51.57,56.23
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1985,-999,41.28,44.98
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1986,-999,83.53,90.03
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1987,-999,10.13,10.84
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1988,-999,29.45,31.56
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1989,-999,43.28,46.75
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1990,-999,230.38,251.74
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1991,-999,151.18,162.9
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1992,-999,17.83,19.07
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1993,-999,60.56,64.94
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1994,-999,102.78,111.09
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1995,-999,212.29,228.33
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1996,-999,232.8,250.84
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1997,-999,18.16,19.42
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1998,-999,291.71,313.07
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",1999,-999,43.18,46.21
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2000,-999,641.06,691.87
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2001,-999,210.76,226.29
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2002,-999,121.21,129.88
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2003,-999,56.25,60.22
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2004,-999,213.06,228.84
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2005,-999,353.38,380.92
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2006,-999,84.29,90.32
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2007,-999,503.92,546.62
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2008,-999,73.55,78.85
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2009,-999,540.28,587.64
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2010,-999,217.37,233.25
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2011,-999,147.59,158.34
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2012,-999,267.27,289.11
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2013,-999,393.78,424.17
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2014,-999,157.34,168.85
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2015,-999,78.28,83.95
+46,"Georgia Strait Freshwater Sport","Georgia Strait Freshwater Sport",2016,-999,79.69,85.66
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1979,-999,156.17,167.17
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1980,-999,155.83,166.75
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1981,-999,176.48,188.92
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1982,-999,155.52,166.5
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1983,-999,160.1,171.41
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1984,-999,161.5,172.91
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1985,-999,150.36,160.95
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1986,-999,183.72,196.67
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1987,-999,198.24,212.32
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1988,-999,222.24,238.14
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1989,-999,250.11,267.84
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1990,-999,212.9,227.87
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1991,-999,172.79,184.94
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1992,-999,123.48,132.2
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1993,-999,136.28,145.99
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1994,-999,184.65,197.87
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1995,-999,295.39,316.14
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1996,-999,435.93,466.43
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1997,-999,178.15,190.72
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1998,-999,275.1,294.37
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",1999,-999,350.86,375.44
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2000,-999,218.73,234.09
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2001,-999,251.09,268.68
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2002,-999,262.94,281.36
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2003,-999,242.8,259.83
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2004,-999,244.97,262.22
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2005,-999,275.74,295.21
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2006,-999,301.56,322.72
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2007,-999,326.06,348.88
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2008,-999,272.75,291.83
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2009,-999,237.49,254.17
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2010,-999,234.05,250.51
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2011,-999,233.91,250.33
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2012,-999,275.88,295.13
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2013,-999,286.96,307
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2014,-999,194.26,207.87
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2015,-999,189.91,203.28
+47,"Puget Sound Freshwater Sport","Puget Sound Freshwater Sport",2016,-999,196.01,209.82
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1979,-999,24671.5,26463.19
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1980,-999,12806.71,13729.97
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1981,-999,23001.07,24653.2
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1982,-999,20433.84,21994.31
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1983,-999,16493.22,17697.21
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1984,-999,19489,20861.5
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1985,-999,18313.18,19692.69
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1986,-999,20675.2,22182.06
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1987,-999,32958.03,35352.36
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1988,-999,33517.07,35914.13
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1989,-999,30957.43,33240.12
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1990,-999,24473.67,26240.62
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1991,-999,30282.32,32469.19
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1992,-999,30442.44,32671.89
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1993,-999,33153.67,35508.88
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1994,-999,29857.71,32039.21
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1995,-999,36788.98,39420.28
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1996,-999,57506.46,61528.11
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1997,-999,33408.88,35767.75
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1998,-999,26520.51,28394.2
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",1999,-999,26532.05,28439.59
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2000,-999,27560.22,29554.14
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2001,-999,51623.77,55346.14
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2002,-999,54860.62,58754.68
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2003,-999,56544.68,60486.87
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2004,-999,51851.02,55483.48
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2005,-999,19653.81,21031.98
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2006,-999,30059.55,32154.05
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2007,-999,17232.07,18450.06
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2008,-999,12002.13,12862.1
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2009,-999,17823.06,19116.14
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2010,-999,51312.65,54923.85
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2011,-999,51071.43,54685.28
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2012,-999,44508.14,47644.22
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2013,-999,119175.26,127628.98
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2014,-999,115804.2,124007.88
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2015,-999,142953.16,152947.21
+48,"South of Falcon Freshwater Sport","South of Falcon Freshwater Sport",2016,-999,130030.81,139183.44

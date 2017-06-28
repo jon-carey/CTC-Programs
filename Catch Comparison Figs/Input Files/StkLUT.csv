@@ -1,0 +1,41 @@
+stockID.old,stockName.old,stockID.new,stockName.new
+1,Alaska South SE,1,Southern SE AK
+1,Alaska South SE,2,Northern SE AK
+NA,NA,3,Yakutat
+NA,NA,4,Transboundary Rivers
+2,North/Centr,5,Northern BC
+2,North/Centr,6,Central BC
+3,Fraser Early,7,Fraser Early Springs 1.2
+3,Fraser Early,8,Fraser Early Springs 1.3
+3,Fraser Early,9,Fraser Early Summers 0.3
+3,Fraser Early,10,Fraser Early Summers 1.3
+4,Fraser Late,11,Fraser Late Natural
+4,Fraser Late,12,Fraser Late Hatchery
+5,WCVI Hatchery,13,WCVI Hatchery
+6,WCVI Natural,14,WCVI Natural
+7,Georgia St. Upper,15,Upper Georgia Strait
+7,Georgia St. Upper,16,Puntledge
+8,Georgia St. Lwr Nat,17,Georgia St. Lwr Nat
+9,Georgia St. Lwr Hat,18,Georgia St. Lwr Hat
+10,Nooksack Fall,19,Nooksack Fall
+11,Pgt Sd Fing,20,Pgt Sd Fing
+12,Pgt Sd NatF,21,Pgt Sd NatF
+13,Pgt Sd Year,22,Pgt Sd Year
+14,Nooksack Spring,23,Nooksack Spring
+15,Skagit Wild,24,Skagit Wild
+16,Stillaguamish Wild,25,Stillaguamish Wild
+17,Snohomish Wild,26,Snohomish Wild
+18,WA Coastal Hat,27,WA Coastal Hat
+28,WA Coastal Wild,28,WA Coastal Wild
+24,Willamette R,29,Willamette R
+25,Spr Cowlitz Hat,30,Spr Cowlitz Hat
+26,Col R Summer,31,Col R Summer
+19,UpRiver Brights,32,UpRiver Brights
+20,Spring Creek Hat,33,Spring Creek Hat
+21,Lwr Bonneville Hat,34,Lwr Bonneville Hat
+22,Fall Cowlitz Hat,35,Fall Cowlitz Hat
+23,Lewis R Wild,36,Lewis R Wild
+29,Lyons Ferry,37,Lyons Ferry
+30,Mid Col R Brights,38,Mid Col R Brights
+27,Oregon Coast,39,North Oregon Coast
+NA,NA,40,Mid-Oregon Coast

@@ -1,0 +1,49 @@
+FishID_New,FishID_Old,TerminalID,FishShortName_New,FishShortName_Old,FishLongName_New,FishLongName_Old,fishery group,fishery group order
+1,1,0,ALASKA T,Alaska T,Alaska Troll,Alaska Troll,Alaska Troll,1
+2,15,1,TAK TERM T,Col R N,Alaska Terminal Troll,Columbia River Net,Alaska Terminal Troll,2
+3,2,0,NORTH T,North T,North B.C. Troll,North BC Troll,North B.C. Troll,3
+4,3,0,CENTRL T,Centr T,Central B.C. Troll,Central BC Troll,Central B.C. Troll,4
+5,4,0,WCVI T,WCVI T,West Coast Vancouver Island Troll,West Coast Vancouver Island Troll,West Coast Vancouver Island Troll,5
+6,5,0,N FALCON T,WA/OR T,North of Falcon Troll,Washington & Oregon Troll,North of Falcon Troll,6
+7,NA,0,S FALCON T,WA/OR T,South of Falcon Troll,Washington & Oregon Troll,South of Falcon Troll,7
+8,6,0,GEO ST T,Geo St T,Georgia Strait Troll,Georgia Strait Troll,Georgia Strait Troll,8
+9,7,0,ALASKA N,Alaska N,Alaska Net,Alaska Net,Alaska Net,9
+10,8,0,NORTH N,North N,North B.C. Net,North BC Net,North B.C. Net,10
+11,9,0,CENTRL N,Centr N,Central B.C. Net,Central BC Net,Central B.C. Net,11
+12,10,0,WCVI N,WCVI N,West Coast Vancouver Island Net,West Coast Vancouver Island Net,West Coast Vancouver Island Net,12
+13,11,0,J DE F N,J De F N,Juan De Fuca Net,Juan de Fuca Net,Juan De Fuca Net,13
+14,12,0,PGSDN N,PgtNth N,Puget Sound North Net,Puget Sound North Net,Puget Sound North Net,14
+15,13,0,PGSDO N,PgtSth N,Puget Sound Other Net,Puget Sound South Net,Puget Sound Other Net,15
+16,14,0,WASH CST N,Wash Cst N,Washington Coast Net,Washington Coast Net,Washington Coast Net,16
+17,15,1,TCOL R N,Col R N,Columbia River Net,Columbia River Net,Columbia River Net,17
+18,15,1,TAK TERM N,Col R N,Alaska Terminal Net,Columbia River Net,Alaska Terminal Net,18
+19,15,1,TNORTH FN,Col R N,North B.C. Freshwater Net,Columbia River Net,North B.C. Freshwater Net,19
+20,15,1,TCENTRAL FN,Col R N,Central B.C. Freshwater Net,Columbia River Net,Central B.C. Freshwater Net,20
+21,15,1,TGEO ST FN,Col R N,Georgia Strait Freshwater Net,Columbia River Net,Georgia Strait Freshwater Net,21
+22,15,1,TFRAS FN,Col R N,Fraser Freshwater Net,Columbia River Net,Fraser Freshwater Net,22
+23,15,1,TPS FN,Col R N,Puget Sound Freshwater Net,Columbia River Net,Puget Sound Freshwater Net,23
+24,15,1,TWAC FN,Col R N,Washington Coast Freshwater Net,Columbia River Net,Washington Coast Freshwater Net,24
+25,16,0,JNST N,John St N,Johnstone Strait Net,Johnstone Strait Net,Johnstone Strait Net,25
+26,17,0,FRASER N,Fraser N,Fraser Net,Fraser Net,Fraser Net,26
+27,18,0,ALASKA S,Alaska S,Alaska Sport,Alaska Sport,Alaska Sport,27
+28,19,0,CBC S,Nor/Cen S,Central B.C. Sport,North & Central BC Sport,Central B.C. Sport,28
+29,19,0,NBC AABM S,Nor/Cen S,North B.C. AABM Sport,North & Central BC Sport,North B.C. AABM Sport,29
+30,19,0,NBC ISBM S,Nor/Cen S,North B.C. ISBM Sport,North & Central BC Sport,North B.C. ISBM Sport,30
+31,20,0,WCVI AABM S,WCVI S,West Coast Vancouver Island AABM Sport,West Coast Vancouver Island Sport,West Coast Vancouver Island AABM Sport,31
+32,NA,0,WCVI ISBM S,WCVI S,West Coast Vancouver Island ISBM Sport,West Coast Vancouver Island Sport,West Coast Vancouver Island ISBM Sport,32
+33,21,0,N FALCON S,Wash Ocn S,North of Falcon Sport,Washington Ocean Sport,North of Falcon Sport,33
+34,NA,0,S FALCON S,Wash Ocn S,South of Falcon Sport,Washington Ocean Sport,South of Falcon Sport,34
+35,22,0,PGSDN S,PgtNth S,Puget Sound North Sport,Puget Sound North Sport,Puget Sound North Sport,35
+36,23,0,PGSDO S,PgtSth S,Puget Sound Other Sport,Puget Sound South Sport,Puget Sound Other Sport,36
+37,15,1,TCAN TBR TERM FN,Col R N,Canadian Transboundary River Freshwater Net,Columbia River Net,Canadian Transboundary River Freshwater Net,37
+38,24,0,GEO ST S,Geo St S,Georgia Strait Sport,Georgia Strait Sport,Georgia Strait Sport,38
+39,NA,0,BC JF S,Geo St S,B.C. Juan De Fuca Sport,Georgia Strait Sport,B.C. Juan De Fuca Sport,39
+40,25,1,TCOL R S,Col R S,Columbia River Sport,Terminal Sport,Columbia River Sport,40
+41,25,1,TAK TERM S,Col R S,Alaska Terminal Sport,Terminal Sport,Alaska Terminal Sport,41
+42,25,1,TNORTH FS,Col R S,North B.C. Freshwater Sport,Terminal Sport,North B.C. Freshwater Sport,42
+43,25,1,TCENTRAL FS,Col R S,Central B.C. Freshwater Sport,Terminal Sport,Central B.C. Freshwater Sport,43
+44,25,1,TWCVI FS,Col R S,West Coast Vancouver Island Freshwater Sport,Terminal Sport,West Coast Vancouver Island Freshwater Sport,44
+45,25,1,TFRASER FS,Col R S,Fraser River Freshwater Sport,Terminal Sport,Fraser River Freshwater Sport,45
+46,25,1,TGS FS,Col R S,Georgia Strait Freshwater Sport,Terminal Sport,Georgia Strait Freshwater Sport,46
+47,25,1,TPS FS,Col R S,Puget Sound Freshwater Sport,Terminal Sport,Puget Sound Freshwater Sport,47
+48,25,1,TSF FS,Col R S,South of Falcon Freshwater Sport,Terminal Sport,South of Falcon Freshwater Sport,48
