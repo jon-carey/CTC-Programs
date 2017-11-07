@@ -19,8 +19,8 @@ Dir <- "C:\\data\\GitHub\\CTC-Programs\\Catch Comparison Figs\\"
 paths = list(paste(Dir,"Input Files\\FishLUT.csv",sep=""),
              # paste(Dir,"StkLUT - OldBP.csv",sep=""),
              # paste(Dir,"StkLUT - NewBP.csv",sep=""),
-             paste(Dir,"Input Files\\1702clb - cat file.csv",sep=""),
-             paste(Dir,"Input Files\\bpP2clb - cat file.csv",sep=""),
+             paste(Dir,"Input Files\\Nov-2017\\1702clb - cat file.csv",sep=""),
+             paste(Dir,"Input Files\\Nov-2017\\bpP2clb - cat file.csv",sep=""),
              paste(Dir,"Output Files\\",sep=""))
 
 
@@ -33,12 +33,23 @@ Cat_NewBP <- read.csv(paths[[3]])
 
 Outfile <- paths[[4]]
 
+# Identify max year and trim data sets
+MaxYear = 2016
+Cat_OldBP <- Cat_OldBP[Cat_OldBP$Year <= MaxYear, ]
+Cat_NewBP <- Cat_NewBP[Cat_NewBP$Year <= MaxYear, ]
+
 # Identify how you want figures to be saved... #
 # Create JPEGs for each figure? (1 = Yes, 0 = No)
 CreateJPEG = 0
 
 # Create PDF of all figures? (1 = Yes, 0 = No)
 CreatePDF = 1
+
+# Create empty data frame for output file
+SummaryTable <- as.data.frame(array(NA, c(0,6)))
+colnames(SummaryTable) <- c("Fishery", "Year", "Observed.New", "Model.New", "Observed.Old",
+                             "Model.Old")
+
 ########################################################################################
 
 
@@ -75,11 +86,31 @@ p[[1]] <- p[[1]] + scale_x_continuous(breaks = seq(from = 1980, to = 2016, by = 
 p[[1]] <- p[[1]] + scale_y_continuous(labels = comma)
 p[[1]] <- p[[1]] + theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
 
+# Append data to SummaryTable
+Catch_wide$Fishery <- rep(title, times = dim(Catch_wide)[1])
+Catch_wide <- Catch_wide[, c(6,1:5)]
+SummaryTable <- rbind(SummaryTable, Catch_wide)
+
 # Save
 if(CreateJPEG == 1) {
     ggsave(paste(Outfile,title,".jpg",sep=""),p[[1]],height=5,width=7.5)
 }
 
+# # Draft Code for Scatter plots per Antonio's request
+# Catch_old <- Catch_wide[ ,c(1,4:5)]
+# Catch_old$Source <- rep(times = dim(Catch_old)[1], "Old")
+# colnames(Catch_old)[2:3] <- c("Observed", "Model")
+# Catch_new <- Catch_wide[ ,c(1:3)]
+# Catch_new$Source <- rep(times = dim(Catch_new)[1], "New")
+# colnames(Catch_new)[2:3] <- c("Observed", "Model")
+# Catch_newold <- rbind(Catch_old, Catch_new)
+# 
+# q[[1]] <- ggplot(data = Catch_newold, aes(x=Observed/1000, y=Model/1000, color = Source)) + geom_point()
+# q[[1]] <- q[[1]] + geom_abline(intercept = 0, slope = 1, linetype = "dashed")
+# q[[1]] <- q[[1]] + scale_x_continuous(labels = comma)
+# q[[1]] <- q[[1]] + scale_y_continuous(labels = comma)
+# q[[1]] <- q[[1]] + xlab("Observed Catch (thousands)") + ylab("Model Catch (thousands)")
+# q[[1]]
 
 # TOTAL PRE-TERMINAL CATCH FIGURE
 Fish_PT <- FishLUT[FishLUT$TerminalID == 0, ]
@@ -111,6 +142,11 @@ p[[length(p)]] <- p[[length(p)]] + theme(legend.position = "bottom")
 p[[length(p)]] <- p[[length(p)]] + scale_x_continuous(breaks = seq(from = 1980, to = 2016, by = 2))
 p[[length(p)]] <- p[[length(p)]] + scale_y_continuous(labels = comma)
 p[[length(p)]] <- p[[length(p)]] + theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
+
+# Append data to SummaryTable
+Catch_wide$Fishery <- rep(title, times = dim(Catch_wide)[1])
+Catch_wide <- Catch_wide[, c(6,1:5)]
+SummaryTable <- rbind(SummaryTable, Catch_wide)
 
 # Save
 if(CreateJPEG == 1) {
@@ -161,6 +197,8 @@ while(i <= dim(Fish_PT)[1]) {
                           v.names = "Catch", idvar = c("Year"), direction = "long")
         colnames(Catch)[2] <- "Source"
         
+        title <- Fish_PT[i,7]
+        
         i = i + length(NewFish_i)
     }
     
@@ -168,6 +206,10 @@ while(i <= dim(Fish_PT)[1]) {
     if(dim(OldFish)[1] < 1) {
         NewCatch <- Cat_NewBP[Cat_NewBP$FisheryNum == Fish_PT$FishID_New[i], c(4:6)]
         colnames(NewCatch) <- c("Year", "Observed_New", "Model_New")
+        
+        Catch_wide <- NewCatch
+        Catch_wide$Observed_Old <- rep("NA", dim(NewCatch)[1])
+        Catch_wide$Model_Old <- rep("NA", dim(NewCatch)[1])
         
         Catch <- reshape(NewCatch, varying = c("Observed_New", "Model_New"), 
                          times = c("Observed_New", "Model_New"),
@@ -177,15 +219,32 @@ while(i <= dim(Fish_PT)[1]) {
         i = i + 1
     }
     
-    p[[length(p)+1]] <- ggplot(data = Catch, aes(Year, Catch, color = Source))
-    p[[length(p)]] <- p[[length(p)]] + geom_line(size = 1.0)
-    p[[length(p)]] <- p[[length(p)]] + scale_color_manual(values=c("#0072B2", "#D55E00", "#000001", "#999999"))
-    p[[length(p)]] <- p[[length(p)]] + ggtitle(title)
-    p[[length(p)]] <- p[[length(p)]] + theme(legend.position = "bottom")
-    p[[length(p)]] <- p[[length(p)]] + scale_x_continuous(breaks = seq(from = 1980, to = 2016, by = 2))
-    p[[length(p)]] <- p[[length(p)]] + scale_y_continuous(labels = comma)
-    p[[length(p)]] <- p[[length(p)]] + theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
+    if(dim(OldFish)[1] >= 1) {
+        p[[length(p)+1]] <- ggplot(data = Catch, aes(Year, Catch, color = Source))
+        p[[length(p)]] <- p[[length(p)]] + geom_line(size = 1.0)
+        p[[length(p)]] <- p[[length(p)]] + scale_color_manual(values=c("#0072B2", "#D55E00", "#000001", "#999999"))
+        p[[length(p)]] <- p[[length(p)]] + ggtitle(title)
+        p[[length(p)]] <- p[[length(p)]] + theme(legend.position = "bottom")
+        p[[length(p)]] <- p[[length(p)]] + scale_x_continuous(breaks = seq(from = 1980, to = 2016, by = 2))
+        p[[length(p)]] <- p[[length(p)]] + scale_y_continuous(labels = comma)
+        p[[length(p)]] <- p[[length(p)]] + theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
+    }
+    if(dim(OldFish)[1] < 1) {
+        p[[length(p)+1]] <- ggplot(data = Catch, aes(Year, Catch, color = Source))
+        p[[length(p)]] <- p[[length(p)]] + geom_line(size = 1.0)
+        p[[length(p)]] <- p[[length(p)]] + scale_color_manual(values=c("#0072B2", "#000001"))
+        p[[length(p)]] <- p[[length(p)]] + ggtitle(title)
+        p[[length(p)]] <- p[[length(p)]] + theme(legend.position = "bottom")
+        p[[length(p)]] <- p[[length(p)]] + scale_x_continuous(breaks = seq(from = 1980, to = 2016, by = 2))
+        p[[length(p)]] <- p[[length(p)]] + scale_y_continuous(labels = comma)
+        p[[length(p)]] <- p[[length(p)]] + theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
+    }
     
+    
+    # Append data to SummaryTable
+    Catch_wide$Fishery <- rep(title, times = dim(Catch_wide)[1])
+    Catch_wide <- Catch_wide[, c(6,1:5)]
+    SummaryTable <- rbind(SummaryTable, Catch_wide)
     
     # Save
     if(CreateJPEG == 1) {
@@ -217,4 +276,5 @@ if(CreatePDF == 1) {
 }
 ########################################################################################
 
-
+# Export Summary Table
+write.csv(SummaryTable, paste(Outfile, "BPCatchComparison_data.csv", sep=""))
