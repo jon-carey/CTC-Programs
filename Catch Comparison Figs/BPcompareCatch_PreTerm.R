@@ -58,6 +58,7 @@ colnames(SummaryTable) <- c("Fishery", "Year", "Observed.New", "Model.New", "Obs
 ########################################################################################
 
 p <- list()
+q <- list()
 
 # Cat_NewBP$Mod.Obs.Rat <- Cat_NewBP$Model_LCatch / Cat_NewBP$Observed_Catch
 # Cat_OldBP$Mod.Obs.Rat <- Cat_OldBP$Model_LCatch / Cat_OldBP$Observed_Catch
@@ -86,31 +87,36 @@ p[[1]] <- p[[1]] + scale_x_continuous(breaks = seq(from = 1980, to = 2016, by = 
 p[[1]] <- p[[1]] + scale_y_continuous(labels = comma)
 p[[1]] <- p[[1]] + theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
 
-# Append data to SummaryTable
-Catch_wide$Fishery <- rep(title, times = dim(Catch_wide)[1])
-Catch_wide <- Catch_wide[, c(6,1:5)]
-SummaryTable <- rbind(SummaryTable, Catch_wide)
-
 # Save
 if(CreateJPEG == 1) {
     ggsave(paste(Outfile,title,".jpg",sep=""),p[[1]],height=5,width=7.5)
 }
 
-# # Draft Code for Scatter plots per Antonio's request
-# Catch_old <- Catch_wide[ ,c(1,4:5)]
-# Catch_old$Source <- rep(times = dim(Catch_old)[1], "Old")
-# colnames(Catch_old)[2:3] <- c("Observed", "Model")
-# Catch_new <- Catch_wide[ ,c(1:3)]
-# Catch_new$Source <- rep(times = dim(Catch_new)[1], "New")
-# colnames(Catch_new)[2:3] <- c("Observed", "Model")
-# Catch_newold <- rbind(Catch_old, Catch_new)
-# 
-# q[[1]] <- ggplot(data = Catch_newold, aes(x=Observed/1000, y=Model/1000, color = Source)) + geom_point()
-# q[[1]] <- q[[1]] + geom_abline(intercept = 0, slope = 1, linetype = "dashed")
-# q[[1]] <- q[[1]] + scale_x_continuous(labels = comma)
-# q[[1]] <- q[[1]] + scale_y_continuous(labels = comma)
-# q[[1]] <- q[[1]] + xlab("Observed Catch (thousands)") + ylab("Model Catch (thousands)")
-# q[[1]]
+# Append data to SummaryTable
+Catch_wide$Fishery <- rep(title, times = dim(Catch_wide)[1])
+Catch_wide <- Catch_wide[, c(6,1:5)]
+SummaryTable <- rbind(SummaryTable, Catch_wide)
+
+# TOTAL CATCH SCATTER
+Catch_old <- Catch_wide[ ,c(2,5:6)]
+Catch_old$Source <- rep(times = dim(Catch_old)[1], "Old")
+colnames(Catch_old)[2:3] <- c("Observed", "Model")
+Catch_new <- Catch_wide[ ,c(2:4)]
+Catch_new$Source <- rep(times = dim(Catch_new)[1], "New")
+colnames(Catch_new)[2:3] <- c("Observed", "Model")
+Catch_newold <- as.data.frame(rbind(Catch_old, Catch_new))
+
+q[[1]] <- ggplot(data = Catch_newold, aes(x=Observed/1000, y=Model/1000, color = Source))
+q[[1]] <- q[[1]] + geom_point(size=2) + geom_abline(intercept = 0, slope = 1, linetype = "dashed")
+q[[1]] <- q[[1]] + scale_color_manual(values=c("#0072B2", "#D55E00"))
+q[[1]] <- q[[1]] + scale_x_continuous(labels = comma) + scale_y_continuous(labels = comma)
+q[[1]] <- q[[1]] + ggtitle(title)
+q[[1]] <- q[[1]] + xlab("Observed Catch (thousands)") + ylab("Model Catch (thousands)")
+
+# Save
+if(CreateJPEG == 1) {
+    ggsave(paste(Outfile,title,"_Scatter.jpg",sep=""),q[[1]],height=5,width=7.5)
+}
 
 # TOTAL PRE-TERMINAL CATCH FIGURE
 Fish_PT <- FishLUT[FishLUT$TerminalID == 0, ]
@@ -143,14 +149,35 @@ p[[length(p)]] <- p[[length(p)]] + scale_x_continuous(breaks = seq(from = 1980, 
 p[[length(p)]] <- p[[length(p)]] + scale_y_continuous(labels = comma)
 p[[length(p)]] <- p[[length(p)]] + theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
 
+# Save
+if(CreateJPEG == 1) {
+    ggsave(paste(Outfile,title,".jpg",sep=""),p[[length(p)]],height=5,width=7.5)
+}
+
 # Append data to SummaryTable
 Catch_wide$Fishery <- rep(title, times = dim(Catch_wide)[1])
 Catch_wide <- Catch_wide[, c(6,1:5)]
 SummaryTable <- rbind(SummaryTable, Catch_wide)
 
+# TOTAL PRE-TERMINAL CATCH SCATTER
+Catch_old <- Catch_wide[ ,c(2,5:6)]
+Catch_old$Source <- rep(times = dim(Catch_old)[1], "Old")
+colnames(Catch_old)[2:3] <- c("Observed", "Model")
+Catch_new <- Catch_wide[ ,c(2:4)]
+Catch_new$Source <- rep(times = dim(Catch_new)[1], "New")
+colnames(Catch_new)[2:3] <- c("Observed", "Model")
+Catch_newold <- as.data.frame(rbind(Catch_old, Catch_new))
+
+q[[length(q)+1]] <- ggplot(data = Catch_newold, aes(x=Observed/1000, y=Model/1000, color = Source))
+q[[length(q)]] <- q[[length(q)]] + geom_point(size=2) + geom_abline(intercept = 0, slope = 1, linetype = "dashed")
+q[[length(q)]] <- q[[length(q)]] + scale_color_manual(values=c("#0072B2", "#D55E00"))
+q[[length(q)]] <- q[[length(q)]] + scale_x_continuous(labels = comma) + scale_y_continuous(labels = comma)
+q[[length(q)]] <- q[[length(q)]] + ggtitle(title)
+q[[length(q)]] <- q[[length(q)]] + xlab("Observed Catch (thousands)") + ylab("Model Catch (thousands)")
+
 # Save
 if(CreateJPEG == 1) {
-    ggsave(paste(Outfile,title,".jpg",sep=""),p[[1]],height=5,width=7.5)
+    ggsave(paste(Outfile,title,"_Scatter.jpg",sep=""),q[[length(q)]],height=5,width=7.5)
 }
 
 # INDIVIDUAL PRE-TERMINAL FISHERY FIGURES 
@@ -208,8 +235,8 @@ while(i <= dim(Fish_PT)[1]) {
         colnames(NewCatch) <- c("Year", "Observed_New", "Model_New")
         
         Catch_wide <- NewCatch
-        Catch_wide$Observed_Old <- rep("NA", dim(NewCatch)[1])
-        Catch_wide$Model_Old <- rep("NA", dim(NewCatch)[1])
+        Catch_wide$Observed_Old <- rep(NA, dim(NewCatch)[1])
+        Catch_wide$Model_Old <- rep(NA, dim(NewCatch)[1])
         
         Catch <- reshape(NewCatch, varying = c("Observed_New", "Model_New"), 
                          times = c("Observed_New", "Model_New"),
@@ -240,15 +267,37 @@ while(i <= dim(Fish_PT)[1]) {
         p[[length(p)]] <- p[[length(p)]] + theme(axis.text.x = element_text(angle = 45, vjust = 0.5))
     }
     
+    # Save
+    if(CreateJPEG == 1) {
+        ggsave(paste(Outfile,title,".jpg",sep=""),p[[1]],height=5,width=7.5)
+    }
     
     # Append data to SummaryTable
     Catch_wide$Fishery <- rep(title, times = dim(Catch_wide)[1])
     Catch_wide <- Catch_wide[, c(6,1:5)]
     SummaryTable <- rbind(SummaryTable, Catch_wide)
     
+    # TOTAL PRE-TERMINAL CATCH SCATTER
+    Catch_old <- Catch_wide[ ,c(2,5:6)]
+    Catch_old$Source <- rep(times = dim(Catch_old)[1], "Old")
+    colnames(Catch_old)[2:3] <- c("Observed", "Model")
+    Catch_new <- Catch_wide[ ,c(2:4)]
+    Catch_new$Source <- rep(times = dim(Catch_new)[1], "New")
+    colnames(Catch_new)[2:3] <- c("Observed", "Model")
+    Catch_newold <- as.data.frame(rbind(Catch_old, Catch_new))
+    Catch_newold <- na.omit(Catch_newold)
+    
+    q[[length(q)+1]] <- ggplot(data = Catch_newold, aes(x=Observed/1000, y=Model/1000, color = Source))
+    q[[length(q)]] <- q[[length(q)]] + geom_point(size=2) + geom_abline(intercept = 0, slope = 1, linetype = "dashed")
+    q[[length(q)]] <- q[[length(q)]] + scale_color_manual(values=c("#0072B2", "#D55E00"))
+    q[[length(q)]] <- q[[length(q)]] + scale_x_continuous(labels = comma) + scale_y_continuous(labels = comma)
+    q[[length(q)]] <- q[[length(q)]] + ggtitle(title)
+    q[[length(q)]] <- q[[length(q)]] + xlab("Observed Catch (thousands)") + ylab("Model Catch (thousands)")
+    q[[length(q)]]
+    
     # Save
     if(CreateJPEG == 1) {
-        ggsave(paste(Outfile,title,".jpg",sep=""),p[[1]],height=5,width=7.5)
+        ggsave(paste(Outfile,title,"_Scatter.jpg",sep=""),q[[length(q)]],height=5,width=7.5)
     }
 }
 ########################################################################################
@@ -269,6 +318,24 @@ if(CreatePDF == 1) {
             grid.arrange(top.plot, bottom.plot)
         }
         if(i*2 > length(p)) {
+            grid.arrange(top.plot)
+        }
+    }
+    dev.off()
+}
+
+if(CreatePDF == 1) {
+    pdf(file=paste(Outfile,"PT_Fishery_Catch_Scatters.pdf",sep=""),height=7,width=10)
+    n <- ceiling(length(q)/2)
+    
+    i=1
+    for(i in 1:n) {
+        top.plot <- q[[i*2-1]]
+        if(i*2 <= length(q)) {
+            bottom.plot <- q[[i*2]]
+            grid.arrange(top.plot, bottom.plot)
+        }
+        if(i*2 > length(q)) {
             grid.arrange(top.plot)
         }
     }
