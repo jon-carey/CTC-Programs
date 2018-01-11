@@ -17,19 +17,19 @@ Dir <- "C:\\data\\GitHub\\CTC-Programs\\Catch Comparison Figs\\"
 
 # Set the paths to the necessary input files and output path
 paths = list(paste(Dir,"Input Files\\FishLUT.csv",sep=""),
-             paste(Dir,"Input Files\\StkLUT_rev.csv",sep=""),
-             paste(Dir,"Input Files\\12-2017\\1702PESC.CSV",sep=""),
-             paste(Dir,"Input Files\\12-2017\\1702PTRM.CSV",sep=""),
-             paste(Dir,"Input Files\\12-2017\\bpP2_2017PESC.CSV",sep=""),
-             paste(Dir,"Input Files\\12-2017\\bpP2_2017PTRM.CSV",sep=""),
+             paste(Dir,"Input Files\\StkLUT_01-2018.csv",sep=""),
+             paste(Dir,"Input Files\\01-2018\\1702PESC.CSV",sep=""),
+             paste(Dir,"Input Files\\01-2018\\1702PTRM.CSV",sep=""),
+             paste(Dir,"Input Files\\01-2018\\BPCV1-21_2017PESC.CSV",sep=""),
+             paste(Dir,"Input Files\\01-2018\\BPCV1-21_2017PTRM.CSV",sep=""),
              # paste(Dir,"Input Files\\Nov-2017\\1702P_fish_AABM_CCC.csv",sep=""),
              # paste(Dir,"Input Files\\Nov-2017\\1702P_fish_ISBM_CCC.csv",sep=""),
-             paste(Dir,"Input Files\\12-2017\\clb1702obsCatch.csv",sep=""),
-             paste(Dir,"Input Files\\12-2017\\CLB1702auxCatch.csv",sep=""),
+             paste(Dir,"Input Files\\01-2018\\clb1702obsCatch.csv",sep=""),
+             paste(Dir,"Input Files\\01-2018\\CLB1702auxCatch.csv",sep=""),
              # paste(Dir,"Input Files\\Nov-2017\\bpP22017P_fish_AABM_CCC.csv",sep=""),
              # paste(Dir,"Input Files\\Nov-2017\\bpP22017P_fish_ISBM_CCC.csv",sep=""),
-             paste(Dir,"Input Files\\12-2017\\bpP2obsCatch.csv",sep=""),
-             paste(Dir,"Input Files\\12-2017\\bpP2auxCatch.csv",sep=""),
+             paste(Dir,"Input Files\\01-2018\\BPCV1-21_obsCatch.csv",sep=""),
+             paste(Dir,"Input Files\\01-2018\\bpP2auxCatch.csv",sep=""),
              paste(Dir,"Output Files\\",sep=""))
 
 
@@ -258,7 +258,7 @@ for(i in 1:length(NewStks)) {
 ############################### Export figures into PDF ################################
 ########################################################################################
 if(CreatePDF == 1) {
-    pdf(file=paste(Outfile,"Term_Fishery_Catch_Comparisons.pdf",sep=""),height=7,width=10)
+    pdf(file=paste(Outfile,"StockSpecificTerm_Catch_Comparisons.pdf",sep=""),height=7,width=10)
     n <- ceiling(length(p)/2)
     
     i=1

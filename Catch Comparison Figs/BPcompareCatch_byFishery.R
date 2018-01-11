@@ -19,8 +19,8 @@ Dir <- "C:\\data\\GitHub\\CTC-Programs\\Catch Comparison Figs\\"
 paths = list(paste(Dir,"Input Files\\FishLUT_rev.csv",sep=""),
              # paste(Dir,"StkLUT - OldBP.csv",sep=""),
              # paste(Dir,"StkLUT - NewBP.csv",sep=""),
-             paste(Dir,"Input Files\\12-2017\\1702clb - cat file.csv",sep=""),
-             paste(Dir,"Input Files\\12-2017\\bpP2clb - cat file.csv",sep=""),
+             paste(Dir,"Input Files\\01-2018\\1702clb - cat file.csv",sep=""),
+             paste(Dir,"Input Files\\01-2018\\BPCV1-21 - cat file.csv",sep=""),
              paste(Dir,"Output Files\\",sep=""))
 
 
