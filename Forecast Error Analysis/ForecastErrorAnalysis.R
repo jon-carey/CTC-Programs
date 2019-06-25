@@ -29,14 +29,26 @@ library(reshape)
 library(stringr)
 library(qdapRegex)
 library(doBy)
+library(tidyr)
+
+# Identify output file types for figures (0 = NO, 1 = YES)
+CreatePDF <- 1
+CreatePNG <- 1
 
 # Set start year; program will exclude any data from all prior years
 StartYear = 1999
 
+# Identify how to scale bubble size
+# WARNING: methods 2-4 were exploratory and may not be fully developed, particularly the categorical ranges...
+#   1 = categorical average postseason return,
+#   2 = categorical annual postseason return,
+#   3 = categorical annual deviation,
+#   4 = continuous annual postseason return
+ScaleMethod = 1
 
 # Set infile and outfile paths
-Infile <- "C:\\data\\GitHub\\CTC-Programs\\Forecast Error Analysis\\Input Files\\"
-Outfile <- "C:\\data\\GitHub\\CTC-Programs\\Forecast Error Analysis\\Output Files\\"
+Infile <- "C:\\Users\\jonathan.carey\\Documents\\GitHub\\CTC-Programs\\Forecast Error Analysis\\Input Files\\"
+Outfile <- "C:\\Users\\jonathan.carey\\Documents\\GitHub\\CTC-Programs\\Forecast Error Analysis\\Output Files\\1905\\Final\\"
 # Set path to file with list of file names for ChkCLB files to be used
 # It is important here that the file names are in order from earliest to most current
 filelist <- read.csv(paste(Infile, "ChkClbList.csv", sep = ""), header = FALSE)
@@ -390,24 +402,52 @@ for(i in 1:dim(MasterFile)[1]) {
 }
 
 # Add field for point size based on average return
-ptsz <- summaryBy(Actual~Stock,data = MasterFile, FUN = mean)
-i=1
-for(i in 1:dim(ptsz)[1]) {
-    if(ptsz$Actual.mean[i] >= 100000) {
-        ptsz$ptsz[i] <- 4
-    }
-    if(ptsz$Actual.mean[i] < 100000) {
-        ptsz$ptsz[i] <- 3
-    }
-    if(ptsz$Actual.mean[i] < 50000) {
-        ptsz$ptsz[i] <- 2
-    }
-    if(ptsz$Actual.mean[i] < 10000) {
-        ptsz$ptsz[i] <- 1
+# WARNING: methods 2-4 were exploratory and may not be fully developed...
+if(ScaleMethod == 1) { # categorical scale by average return over entire time series
+  ptsz <- summaryBy(Actual~Stock,data = MasterFile, FUN = mean)
+  i=1
+  for(i in 1:dim(ptsz)[1]) {
+    if(ptsz$Actual.mean[i] >= 100000) {ptsz$ptsz[i] <- 4}
+    if(ptsz$Actual.mean[i] < 100000) {ptsz$ptsz[i] <- 3}
+    if(ptsz$Actual.mean[i] < 50000) {ptsz$ptsz[i] <- 2}
+    if(ptsz$Actual.mean[i] < 10000) {ptsz$ptsz[i] <- 1}
+  }
+  ptsz <- ptsz[ ,c(1,3)]
+  MasterFile <- merge(MasterFile, ptsz)
+}
+
+if(ScaleMethod == 2) { # categorical scale by annual return value
+  i=1
+  for(i in 1:dim(MasterFile)[1]) {
+    if(MasterFile$Actual[i] >= 100000) {MasterFile$ptsz[i] <- 4}
+    if(MasterFile$Actual[i] < 100000) {MasterFile$ptsz[i] <- 3}
+    if(MasterFile$Actual[i] < 50000) {MasterFile$ptsz[i] <- 2}
+    if(MasterFile$Actual[i] < 10000) {MasterFile$ptsz[i] <- 1}
+  }
+}
+
+if(ScaleMethod == 3) { # categorical scale by size of deviation (actual - forecast)
+  i=1
+  for(i in 1:dim(MasterFile)[1]) {
+    if(abs(MasterFile$Actual[i] - MasterFile$Used[i]) >= 50000) {MasterFile$ptsz[i] <- 4}
+    if(abs(MasterFile$Actual[i] - MasterFile$Used[i]) < 50000) {MasterFile$ptsz[i] <- 3}
+    if(abs(MasterFile$Actual[i] - MasterFile$Used[i]) < 5000) {MasterFile$ptsz[i] <- 2}
+    if(abs(MasterFile$Actual[i] - MasterFile$Used[i]) < 500) {MasterFile$ptsz[i] <- 1}
+  }
+}
+
+if(ScaleMethod == 4) { # continuous scale by size of annual return
+  StkSizeDat <- summaryBy(Actual~Year, data = MasterFile, FUN = c(quantile(probs = c(.10, .50, .90))))
+  i=14
+  for(i in 1:dim(MasterFile)[1]) {
+    yr <- MasterFile$Year[i]
+    yr_1st <- StkSizeDat[StkSizeDat$Year == yr, 3]
+    yr_3rd <- StkSizeDat[StkSizeDat$Year == yr, 5]
+    MasterFile$ptsz[i] <- ((MasterFile$Actual[i] - yr_1st) * 3 / (yr_3rd - yr_1st)) + 1.0
+    if(MasterFile$ptsz[i] < 1.0) {MasterFile$ptsz[i]  <-  1.0}
+    if(MasterFile$ptsz[i] > 4.0) {MasterFile$ptsz[i]  <-  4.0}
     }
 }
-ptsz <- ptsz[ ,c(1,3)]
-MasterFile <- merge(MasterFile, ptsz)
 
 #################################
 # Generate table for Appendix J #
@@ -463,8 +503,25 @@ AppJ <- merge(AppJ, StkGeoOrder, by.x = "Stock", by.y = "Stk", all.x = TRUE)
 AppJ <- AppJ[with(AppJ, order(Level, Year)), ]
 AppJ <- AppJ[ ,c(1,3:9,2,10)]
 
+AppJ2 <- AppJ
+AppJ2$Mod <- prettyNum(AppJ2$Mod, big.mark = ",")
+AppJ2$Agency <- prettyNum(AppJ2$Agency, big.mark = ",")
+AppJ2$Actual <- prettyNum(AppJ2$Actual, big.mark = ",")
+
+AppJ2$Model.Agency <- paste(round(AppJ2$Model.Agency * 100,0), "%", sep="")
+AppJ2$Agency.Actual <- paste(round(AppJ2$Agency.Actual * 100,0), "%", sep="")
+AppJ2$Model.Actual <- paste(round(AppJ2$Model.Actual * 100,0), "%", sep="")
+
+AppJ2$Model.Agency <- gsub("NA%", NA, AppJ2$Model.Agency)
+AppJ2$Agency.Actual <- gsub("NA%", NA, AppJ2$Agency.Actual)
+AppJ2$Model.Actual <- gsub("NA%", NA, AppJ2$Model.Actual)
+
+AppJ2$Model.Agency <- gsub("NaN%", NA, AppJ2$Model.Agency)
+AppJ2$Agency.Actual <- gsub("NaN%", NA, AppJ2$Agency.Actual)
+AppJ2$Model.Actual <- gsub("NaN%", NA, AppJ2$Model.Actual)
+
 # Save file
-write.csv(AppJ, file = paste(Outfile, "Appendix_J.csv", sep = ""), row.names = FALSE)
+write.csv(AppJ2, file = paste(Outfile, "Appendix_J.csv", sep = ""), row.names = FALSE)
 
 RunSizeDefs <- MasterFile[ ,c(1,4)]
 unique(RunSizeDefs)
@@ -480,43 +537,51 @@ levels(MasterFile$Stock) <- unique(MasterFile$Stock)
 # black symbols correspond to agency-supplied forecasts, white symbols is model FC
 #...................................................................................
 
-pdf(file=paste(Outfile,"StockByStockPerformance_6.6.17.pdf",sep=""),height=7,width=10)
-#Comment pdf and uncomment png if png is preferred
-#png(file=paste(this_is_the_place,"\\","StockByStockPerformance.png",sep=""),width=10,height=7,units="in",res=400)
-i=1
-ymin <- 0 #  ***  CHANGE Y AXIS MIN AS NEEDED/DESIRED
-ymax <- 2.5 #  ***  CHANGE Y AXIS MAX AS NEEDED/DESIRED
-num.stocks=28 #  ***  Model stocks = 30, but there are 2 cases of forecasts generated for a combined stock
-par(mfrow=c(3,5))
-while(i<=num.stocks) {
+if(CreatePDF == 1) {
+  pdf(file=paste(Outfile,"Stock-by-Stock_clb1905.pdf",sep=""),height=7,width=10)
+  i <- 1
+  ymin <- 0 #  ***  CHANGE Y AXIS MIN AS NEEDED/DESIRED
+  # ymax <- 2.5 #  ***  CHANGE Y AXIS MAX AS NEEDED/DESIRED
+  num.stocks <- 28 #  ***  Model stocks = 30, but there are 2 cases of forecasts generated for a combined stock
+  par(mfrow=c(3,5))
+  while(i<=num.stocks) {
     stknam<-levels(MasterFile$Stock)[i]
     y<-1/(MasterFile$Actual[MasterFile$Stock==stknam]/MasterFile$Used[MasterFile$Stock==stknam])
     x<-MasterFile$Year[MasterFile$Stock==stknam]
     colx<-as.character(MasterFile$kel[MasterFile$Stock==stknam])
-    
-    plot(x,y,
-         pch="",bg="black",las=2,xlab="",ylab="Forecast/Actual",ylim=c(ymin,ymax),
+    plot(x,y,pch="",bg="black",las=2,xlab="",ylab="Forecast/Actual",ylim=c(ymin,max(max(y,na.rm=T),2)),
          cex=2,main=stknam)
-    j = 1
-    while(j<=length(y)) {
-        # determine whether value will be off the chart
-        chk <- ifelse(y[j]>ymax & !(is.na(y[j])),1,0)
-        # if not, plot normally
-        if(chk==0) {
-            points(x[j],y[j],pch=MasterFile$sym[MasterFile$Stock==stknam][j],bg=colx[j],cex=2)
-            j=j+1
-        }
-        # if so, convert symbol to '*' and set value to ymax (so it appears on chart)
-        if(chk==1) {
-            points(x[j],ymax,pch="*",bg=colx[j],cex=2)
-            j=j+1
-        }
-    }
+    points(x,y,pch=MasterFile$sym[MasterFile$Stock==stknam],bg=colx,cex=2)
     abline(h=1,lty="dashed")
     box(lwd=2)
     i = i+1
+  }
+  dev.off()
 }
-dev.off()
+if(CreatePNG == 1) {
+  stks <- data.frame(c(1,16),c(15,28))
+  for(k in 1:dim(stks)[1]) {
+    png(file=paste(Outfile,"Stock-by-Stock_clb1905_",k,".png",sep=""),width=10,height=7,units="in",res=400)
+    i <- stks[k,1]
+    ymin <- 0 #  ***  CHANGE Y AXIS MIN AS NEEDED/DESIRED
+    # ymax <- 2.5 #  ***  CHANGE Y AXIS MAX AS NEEDED/DESIRED
+    num.stocks <- stks[k,2] #  ***  Model stocks = 30, but there are 2 cases of forecasts generated for a combined stock
+    par(mfrow=c(3,5))
+    while(i<=num.stocks) {
+      stknam<-levels(MasterFile$Stock)[i]
+      y<-1/(MasterFile$Actual[MasterFile$Stock==stknam]/MasterFile$Used[MasterFile$Stock==stknam])
+      x<-MasterFile$Year[MasterFile$Stock==stknam]
+      colx<-as.character(MasterFile$kel[MasterFile$Stock==stknam])
+      plot(x,y,pch="",bg="black",las=2,xlab="",ylab="Forecast/Actual",ylim=c(ymin,max(max(y,na.rm=T),2)),
+           cex=2,main=stknam)
+      points(x,y,pch=MasterFile$sym[MasterFile$Stock==stknam],bg=colx,cex=2)
+      abline(h=1,lty="dashed")
+      box(lwd=2)
+      i = i+1
+    }
+    dev.off()
+  }
+}
 
 #...................................................................................
 # FC FIGS PART 2: All Stocks, Year-by-Year FC performance (FC/Actual) plots; 
@@ -527,42 +592,48 @@ dev.off()
 MasterFile <- merge(MasterFile, StkGeoOrder, by.x = "Stock", by.y = "Stk", all.x = TRUE)
 MasterFile <- MasterFile[with(MasterFile, order(Level, Year)), ]
 
-pdf(file=paste(Outfile,"StkByStkWithinYRFCperf_6.6.17.pdf",sep=""),height=7,width=10)
-#Comment pdf and uncomment png if png is preferred
-#png(file=paste(this_is_the_place,"\\","StkByStkWithinYRFCperf.png",sep=""),width=10,height=7,units="in",res=400)
-yr=StartYear #  ***   CHANGE START YEAR AS NEEDED/DESIRED
-yr_max=EndYear-1 #  ***   CHANGE END YEAR AS NEEDED/DESIRED
-ymin <- 0 #  ***   CHANGE Y AXIS MIN AS NEEDED/DESIRED
-ymax <- 3 #  ***   CHANGE Y AXIS MAX AS NEEDED/DESIRED
-par(mfrow=c(3,2))
-while(yr<=yr_max) {
+if(CreatePDF == 1) {
+  pdf(file=paste(Outfile,"Performance-by-Year_clb1905.pdf",sep=""),height=7,width=10)
+  yr <- StartYear #  ***   CHANGE START YEAR AS NEEDED/DESIRED
+  yr_max <- EndYear-1 #  ***   CHANGE END YEAR AS NEEDED/DESIRED
+  ymin <- 0 #  ***   CHANGE Y AXIS MIN AS NEEDED/DESIRED
+  # ymax <- 3 #  ***   CHANGE Y AXIS MAX AS NEEDED/DESIRED
+  par(mfrow=c(3,2))
+  while(yr<=yr_max) {
     y<-1/(MasterFile$Actual[MasterFile$Year==yr]/MasterFile$Used[MasterFile$Year==yr])
     colx<-as.character(MasterFile$kel[MasterFile$Year==yr])
     cexx<-MasterFile$ptsz[MasterFile$Year==yr]
     x<-c(1:num.stocks)#levels(MasterFile$Stock[MasterFile$Year==yr])
-    
-    plot(x,y,pch="",xlab="",xaxt="n",ylab="Forecast/Actual",cex=2,main=yr,ylim=c(ymin,ymax))
+    plot(x,y,pch="",xlab="",xaxt="n",ylab="Forecast/Actual",cex=2,main=yr,ylim=c(ymin,max(max(y,na.rm=TRUE),2.5)))
     abline(h=1,lty="dashed")
     axis(1,cex.axis=1,lwd=2,at=c(1:num.stocks),labels=as.character(MasterFile$Stock[MasterFile$Year==yr]),las=2)
     box(lwd=2)
-    j = 1
-    while(j<=length(y)) {
-        # determine whether value will be off the chart
-        chk <- ifelse(y[j]>ymax & !(is.na(y[j])),1,0)
-        # if not, plot normally
-        if(chk==0) {
-            points(x[j],y[j],pch=MasterFile$sym[MasterFile$Year==yr][j],bg=colx[j],cex=cexx[j])
-            j=j+1
-        }
-        # if so, convert symbol to '*' and set value to ymax (so it appears on chart)
-        if(chk==1) {
-            points(x[j],ymax,pch="*",bg=colx[j],cex=2)
-            j=j+1
-        }
-    }
+    points(x,y,pch=MasterFile$sym[MasterFile$Year==yr],bg=colx,cex=cexx)
     yr = yr+1
+  }
+  dev.off()
 }
-dev.off()
+if(CreatePNG == 1) {
+  FigYearStart <- EndYear-1
+  for(i in FigYearStart:(EndYear-1)) {
+    png(file=paste(Outfile,"Performance-by-Year_",i,".png",sep=""),width=7,height=3.5,units="in",res=400)
+    yr=i #  ***   CHANGE START YEAR AS NEEDED/DESIRED
+    yr_max=EndYear-1 #  ***   CHANGE END YEAR AS NEEDED/DESIRED
+    ymin <- 0 #  ***   CHANGE Y AXIS MIN AS NEEDED/DESIRED
+    # ymax <- 3 #  ***   CHANGE Y AXIS MAX AS NEEDED/DESIRED
+    y<-1/(MasterFile$Actual[MasterFile$Year==yr]/MasterFile$Used[MasterFile$Year==yr])
+    colx<-as.character(MasterFile$kel[MasterFile$Year==yr])
+    cexx<-MasterFile$ptsz[MasterFile$Year==yr]
+    x<-c(1:num.stocks)#levels(MasterFile$Stock[MasterFile$Year==yr])
+    plot(x,y,pch="",xlab="",xaxt="n",ylab="Forecast/Actual",cex=2,main=yr,ylim=c(ymin,max(max(y,na.rm=TRUE),2.5)))
+    abline(h=1,lty="dashed")
+    axis(1,cex.axis=1,lwd=2,at=c(1:num.stocks),labels=as.character(MasterFile$Stock[MasterFile$Year==yr]),las=2)
+    box(lwd=2)
+    points(x,y,pch=MasterFile$sym[MasterFile$Year==yr],bg=colx,cex=cexx)
+
+    dev.off()
+  }
+}
 
 # Export data files used to generate figures
 write.csv(MasterFile, file = paste(Outfile, "ForecastPerformanceData.csv", sep = ""), row.names = FALSE)
