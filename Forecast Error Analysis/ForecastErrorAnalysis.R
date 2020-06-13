@@ -16,9 +16,10 @@
 # OUTPUTS:
 # 1. Figure 3.20 for CLB & ERA Report (Forecast performance for each stock by year)
 # 2. Figure 3.21 for CLB & ERA Report (Forecast performance for each year by stock)
-# 2. A csv summary file of the data used to populate the figures ()
+# 3. A csv summary file of the data used to populate the figures ()
+# 4. A csv formatted for cutting and pasting into Appendix J
 #
-# JC; 6/5/2017
+# JC; 6/12/2020
 ################################################################################################
 
 # Clear the workspace
@@ -35,6 +36,12 @@ library(tidyr)
 CreatePDF <- 1
 CreatePNG <- 1
 
+# Identify model base period ("old" = 9806, "new" = phase2)
+modelBP <- "old"
+
+# Identify calibration number
+clb <- "clb2000_9806"
+
 # Set start year; program will exclude any data from all prior years
 StartYear = 1999
 
@@ -47,8 +54,8 @@ StartYear = 1999
 ScaleMethod = 1
 
 # Set infile and outfile paths
-Infile <- "C:\\Users\\jonathan.carey\\Documents\\GitHub\\CTC-Programs\\Forecast Error Analysis\\Input Files\\"
-Outfile <- "C:\\Users\\jonathan.carey\\Documents\\GitHub\\CTC-Programs\\Forecast Error Analysis\\Output Files\\1905\\Final\\"
+Infile <- "C:\\Users\\jonathan.carey\\Documents\\GitHub\\CTC-Programs\\Forecast Error Analysis\\Input Files\\OldModel\\"
+Outfile <- "C:\\Users\\jonathan.carey\\Documents\\GitHub\\CTC-Programs\\Forecast Error Analysis\\Output Files\\2020\\2000-OldModel\\"
 # Set path to file with list of file names for ChkCLB files to be used
 # It is important here that the file names are in order from earliest to most current
 filelist <- read.csv(paste(Infile, "ChkClbList.csv", sep = ""), header = FALSE)
@@ -462,23 +469,26 @@ AppJ2 <- AppJ2[ ,c(1,3,4,6,5)]
 AppJ2$Actual <- rep(NA, times = dim(AppJ2)[1])
 AppJ <- rbind(AppJ, AppJ2)
 
-# Combine BON and CWF
-AppJ_BON.CWF <- AppJ[AppJ$Stock %in% c("BON","CWF"), ]
-AppJ_BONCWF <- summaryBy(Mod+Agency+Actual ~ Year, data = AppJ_BON.CWF, FUN = sum)
-AppJ_BONCWF$Stock <- rep("BON+CWF", times = dim(AppJ_BONCWF)[1])
-AppJ_BONCWF$CLB <- AppJ_BON.CWF[AppJ_BON.CWF$Stock == "BON", 1]
-AppJ_BONCWF <- AppJ_BONCWF[ ,c(6,5,1:4)]
-colnames(AppJ_BONCWF) <- colnames(AppJ)
-AppJ <- rbind(AppJ, AppJ_BONCWF)
-AppJ <- AppJ[!(AppJ$Stock %in% c("BON","CWF")), ]
 
-# Add in data from earlier years where BON and CWF were combined
-MasterDat_BON.CWF <- MasterDat[MasterDat$Stock == "BON+CWF", ]
-i=1
-for(i in 1:dim(MasterDat_BON.CWF)[1]) {
+# Combine BON and CWF (if model = old)
+if(modelBP == "old") {
+  AppJ_BON.CWF <- AppJ[AppJ$Stock %in% c("BON","CWF"), ]
+  AppJ_BONCWF <- summaryBy(Mod+Agency+Actual ~ Year, data = AppJ_BON.CWF, FUN = sum)
+  AppJ_BONCWF$Stock <- rep("BON+CWF", times = dim(AppJ_BONCWF)[1])
+  AppJ_BONCWF$CLB <- AppJ_BON.CWF[AppJ_BON.CWF$Stock == "BON", 1]
+  AppJ_BONCWF <- AppJ_BONCWF[ ,c(6,5,1:4)]
+  colnames(AppJ_BONCWF) <- colnames(AppJ)
+  AppJ <- rbind(AppJ, AppJ_BONCWF)
+  AppJ <- AppJ[!(AppJ$Stock %in% c("BON","CWF")), ]
+  
+  # Add in data from earlier years where BON and CWF were combined
+  MasterDat_BON.CWF <- MasterDat[MasterDat$Stock == "BON+CWF", ]
+  i=1
+  for(i in 1:dim(MasterDat_BON.CWF)[1]) {
     AppJ[AppJ$Stock == MasterDat_BON.CWF$Stock[i] & AppJ$Year == MasterDat_BON.CWF$Year[i], 1] <- MasterDat_BON.CWF$CLB[i]
     AppJ[AppJ$Stock == MasterDat_BON.CWF$Stock[i] & AppJ$Year == MasterDat_BON.CWF$Year[i], 4] <- MasterDat_BON.CWF$Mod[i]
     AppJ[AppJ$Stock == MasterDat_BON.CWF$Stock[i] & AppJ$Year == MasterDat_BON.CWF$Year[i], 5] <- MasterDat_BON.CWF$Agency[i]
+  }
 }
 
 # Calculate necessary ratios
@@ -538,7 +548,7 @@ levels(MasterFile$Stock) <- unique(MasterFile$Stock)
 #...................................................................................
 
 if(CreatePDF == 1) {
-  pdf(file=paste(Outfile,"Stock-by-Stock_clb1905.pdf",sep=""),height=7,width=10)
+  pdf(file=paste(Outfile,"Stock-by-Stock_", clb, ".pdf",sep=""),height=7,width=10)
   i <- 1
   ymin <- 0 #  ***  CHANGE Y AXIS MIN AS NEEDED/DESIRED
   # ymax <- 2.5 #  ***  CHANGE Y AXIS MAX AS NEEDED/DESIRED
@@ -561,7 +571,7 @@ if(CreatePDF == 1) {
 if(CreatePNG == 1) {
   stks <- data.frame(c(1,16),c(15,28))
   for(k in 1:dim(stks)[1]) {
-    png(file=paste(Outfile,"Stock-by-Stock_clb1905_",k,".png",sep=""),width=10,height=7,units="in",res=400)
+    png(file=paste(Outfile,"Stock-by-Stock_", clb, "_", k,".png",sep=""),width=10,height=7,units="in",res=400)
     i <- stks[k,1]
     ymin <- 0 #  ***  CHANGE Y AXIS MIN AS NEEDED/DESIRED
     # ymax <- 2.5 #  ***  CHANGE Y AXIS MAX AS NEEDED/DESIRED
@@ -593,7 +603,7 @@ MasterFile <- merge(MasterFile, StkGeoOrder, by.x = "Stock", by.y = "Stk", all.x
 MasterFile <- MasterFile[with(MasterFile, order(Level, Year)), ]
 
 if(CreatePDF == 1) {
-  pdf(file=paste(Outfile,"Performance-by-Year_clb1905.pdf",sep=""),height=7,width=10)
+  pdf(file=paste(Outfile,"Performance-by-Year_", clb, ".pdf",sep=""),height=7,width=10)
   yr <- StartYear #  ***   CHANGE START YEAR AS NEEDED/DESIRED
   yr_max <- EndYear-1 #  ***   CHANGE END YEAR AS NEEDED/DESIRED
   ymin <- 0 #  ***   CHANGE Y AXIS MIN AS NEEDED/DESIRED
@@ -642,10 +652,15 @@ write.csv(MasterFile, file = paste(Outfile, "ForecastPerformanceData.csv", sep =
 # Values for report text #
 ##########################
 APEdat <- AppJ[!(AppJ$Year == "AVG"), ]
-APEdat <- APEdat[APEdat$Year < EndYear, ]
-model.agency <- na.omit(APEdat$Mod / APEdat$Agency)
-agency.actual <- na.omit(APEdat$Agency / APEdat$Actual)
-model.actual <- na.omit(APEdat$Mod / APEdat$Actual)
+
+model.agencyDat <- APEdat[ ,c(1:4)]
+model.agency <- na.omit(model.agencyDat$Mod / model.agencyDat$Agency)
+
+agency.actualDat <-  APEdat[ ,c(1,2,4,5)]
+agency.actual <- na.omit(agency.actualDat$Agency / agency.actualDat$Actual)
+
+model.actualDat <- APEdat[ ,c(1:3,5)]
+model.actual <- na.omit(model.actualDat$Mod / model.actualDat$Actual)
 
 round((1 - mean(model.agency)) * 100, 1)
 round((1 - mean(agency.actual)) * 100, 1)
